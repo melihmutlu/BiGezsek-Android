@@ -47,6 +47,25 @@ public class GooglePlacesActivity extends FragmentActivity {
 
     }
 
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        // Check that the result was from the autocomplete widget.
+        if (requestCode == REQUEST_CODE_AUTOCOMPLETE) {
+            if (resultCode == RESULT_OK) {
+                // Get the selected place
+                Place place = PlaceAutocomplete.getPlace(this, data);
+
+                    // TODO
+
+            } else if (resultCode == PlaceAutocomplete.RESULT_ERROR) {
+               // ERROR !!
+            } else if (resultCode == RESULT_CANCELED) {
+                // CANCELED !!
+            }
+        }
+    }
 
 
 }
