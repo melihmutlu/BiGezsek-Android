@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
-    },
-    {
         "merged": "/home/melih/AndroidStudioProjects/BiGezsek/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
