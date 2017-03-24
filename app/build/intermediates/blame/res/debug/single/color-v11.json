@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/home/melih/AndroidStudioProjects/BiGezsek/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/home/melih/AndroidStudioProjects/BiGezsek/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",

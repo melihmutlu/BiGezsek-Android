@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/melih/AndroidStudioProjects/BiGezsek/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/home/melih/AndroidStudioProjects/BiGezsek/app/src/main/res/menu/menu_main.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/menu/menu_main.xml"
     }

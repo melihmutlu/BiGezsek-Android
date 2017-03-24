@@ -7,6 +7,6 @@
     android:layout_height="match_parent"
     tools:context="com.hackathon.getir.bigezsek.MainActivity">
 
-    <
+
 
 </android.support.design.widget.CoordinatorLayout>
