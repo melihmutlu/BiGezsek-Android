@@ -18,14 +18,19 @@ import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.google.android.gms.common.GooglePlayServicesNotAvailableException;
+import com.google.android.gms.common.GooglePlayServicesRepairableException;
+import com.google.android.gms.location.places.ui.PlacePicker;
 import com.miguelcatalan.materialsearchview.MaterialSearchView;
 
 public class MainActivity extends AppCompatActivity {
 
     Toolbar toolbar;
     Context context;
+    Button button;
+    private static final int REQUEST_PLACE_PICKER = 1;
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -33,6 +38,25 @@ public class MainActivity extends AppCompatActivity {
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        button = (Button) findViewById(R.id.placepicker);
+
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                PlacePicker.IntentBuilder intentBuilder = new PlacePicker.IntentBuilder();
+                Intent intent = null;
+                try {
+                    intent = intentBuilder.build(MainActivity.this);
+                } catch (GooglePlayServicesRepairableException e) {
+                    e.printStackTrace();
+                } catch (GooglePlayServicesNotAvailableException e) {
+                    e.printStackTrace();
+                }
+                // Start the Intent by requesting a result, identified by a request code.
+                startActivityForResult(intent, REQUEST_PLACE_PICKER);
+
+            }
+        });
 
 
     }

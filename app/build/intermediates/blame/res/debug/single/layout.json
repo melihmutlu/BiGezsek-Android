@@ -4,12 +4,12 @@
         "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_volume_control.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
@@ -90,6 +90,10 @@
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/activity_nearby_map.xml",
+        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/activity_nearby_map.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
