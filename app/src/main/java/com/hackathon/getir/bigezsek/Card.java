@@ -1,6 +1,7 @@
 package com.hackathon.getir.bigezsek;
 
 import android.content.Context;
+import android.content.Intent;
 import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -44,13 +45,12 @@ public class Card {
         mSwipeView = swipeView;
     }
 
-    @Click(R.id.profileImageView)
+    @Click(R.id.cardView)
     private void click(){
-        CharSequence text = "PP clicked!";
-        int duration = Toast.LENGTH_SHORT;
-
-        Toast toast = Toast.makeText(mContext, text, duration);
-        toast.show();
+        Intent messageactivity = new Intent(mContext,MessageActivity.class);
+        messageactivity.putExtra("otherId",mProfile.getId());
+        messageactivity.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        mContext.startActivity(messageactivity);
     }
 
     @Resolve
@@ -62,27 +62,6 @@ public class Card {
 
     @SwipeOut
     private void onSwipedOut(){
-        Log.d("EVENT", "onSwipedOut");
         mSwipeView.addView(this);
-    }
-
-    @SwipeCancelState
-    private void onSwipeCancelState(){
-        Log.d("EVENT", "onSwipeCancelState");
-    }
-
-    @SwipeIn
-    private void onSwipeIn(){
-        Log.d("EVENT", "onSwipedIn");
-    }
-
-    @SwipeInState
-    private void onSwipeInState(){
-        Log.d("EVENT", "onSwipeInState");
-    }
-
-    @SwipeOutState
-    private void onSwipeOutState(){
-        Log.d("EVENT", "onSwipeOutState");
     }
 }
