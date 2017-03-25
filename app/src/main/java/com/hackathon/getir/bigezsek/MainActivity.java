@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
+import android.location.Location;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.RequiresApi;
@@ -67,22 +68,6 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
             }
         });
 
-
-       /* searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
-            @Override
-            public boolean onQueryTextSubmit(String query) {
-                return false;
-            }
-
-            @Override
-            public boolean onQueryTextChange(String newText) {
-                Intent i = new Intent(context, GooglePlacesActivity.class);
-                startActivityForResult(i,1);
-                return true;
-            }
-        });
-*/
-
         // Get Fragment
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
@@ -120,5 +105,18 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         }
         map.setMyLocationEnabled(true);
 
+        GoogleMap.OnMyLocationChangeListener locationChangeListener = new GoogleMap.OnMyLocationChangeListener() {
+            @Override
+            public void onMyLocationChange (Location location) {
+                LatLng loc = new LatLng (location.getLatitude(), location.getLongitude());
+                map.animateCamera(CameraUpdateFactory.newLatLngZoom(loc, 16.0f));
+            }
+        };
+
+        map.setOnMyLocationChangeListener(locationChangeListener);
+
+
     }
+
+
 }
