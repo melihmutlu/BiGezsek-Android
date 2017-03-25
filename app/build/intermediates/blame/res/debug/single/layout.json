@@ -8,10 +8,6 @@
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_intro_overlay.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
         "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_item_header.xml"
     },
@@ -94,10 +90,6 @@
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/activity_nearby_map.xml",
         "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/activity_nearby_map.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
@@ -280,10 +272,6 @@
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
-        "source": "/home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/res/layout/place_autocomplete_fragment.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/activity_google_places.xml",
         "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/activity_google_places.xml"
     },
@@ -310,10 +298,6 @@
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",

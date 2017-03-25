@@ -36,12 +36,12 @@
         "source": "/home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/res/drawable-mdpi-v4/powered_by_google_dark.png"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_cast_white.png",
         "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/drawable-mdpi-v4/ic_cast_white.png"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_bigtop_updates_white_24.png",
@@ -76,20 +76,20 @@
         "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/drawable-mdpi-v4/ic_pause_light.png"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/drawable-mdpi-v4/cast_abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/home/melih/.android/build-cache/fede846dd30453ff8b5d8aac6ef98afdea942312/output/res/drawable-mdpi-v4/ic_plusone_medium_off_client.png"
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cast_abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/drawable-mdpi-v4/cast_abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/melih/.android/build-cache/fede846dd30453ff8b5d8aac6ef98afdea942312/output/res/drawable-mdpi-v4/ic_plusone_medium_off_client.png"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png",

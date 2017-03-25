@@ -2,13 +2,17 @@ package com.hackathon.getir.bigezsek;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.RequiresApi;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.FragmentActivity;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
@@ -21,42 +25,52 @@ import android.widget.Toast;
 import com.google.android.gms.common.GooglePlayServicesNotAvailableException;
 import com.google.android.gms.common.GooglePlayServicesRepairableException;
 import com.google.android.gms.location.places.ui.PlacePicker;
+import com.google.android.gms.maps.CameraUpdate;
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
 import com.miguelcatalan.materialsearchview.MaterialSearchView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends FragmentActivity implements OnMapReadyCallback {
 
-    Toolbar toolbar;
-    Context context;
-    Button button;
-    private static final int REQUEST_PLACE_PICKER = 1;
-
+    private android.widget.Toolbar toolbar;
+    private GoogleMap map;
+    private SearchView searchView;
+    private Context context;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        context = this;
 
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-        button = (Button) findViewById(R.id.placepicker);
+        // Set toolbar
+        toolbar = (android.widget.Toolbar) findViewById(R.id.toolbar);
+        setActionBar(toolbar);
 
-        button.setOnClickListener(new View.OnClickListener() {
+        searchView = (SearchView) findViewById(R.id.search_box);
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
-            public void onClick(View v) {
-                PlacePicker.IntentBuilder intentBuilder = new PlacePicker.IntentBuilder();
-                Intent intent = null;
-                try {
-                    intent = intentBuilder.build(MainActivity.this);
-                } catch (GooglePlayServicesRepairableException e) {
-                    e.printStackTrace();
-                } catch (GooglePlayServicesNotAvailableException e) {
-                    e.printStackTrace();
-                }
-                // Start the Intent by requesting a result, identified by a request code.
-                startActivityForResult(intent, REQUEST_PLACE_PICKER);
+            public boolean onQueryTextSubmit(String query) {
+                return false;
+            }
 
+            @Override
+            public boolean onQueryTextChange(String newText) {
+                Intent i = new Intent(context, GooglePlacesActivity.class);
+                startActivityForResult(i,1);
+                return true;
             }
         });
+
+
+        // Get Fragment
+        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.map);
+        mapFragment.getMapAsync(this);
 
 
     }
@@ -67,33 +81,28 @@ public class MainActivity extends AppCompatActivity {
         if (requestCode == 1) {
             if(resultCode == RESULT_OK){
                 String placeID =data.getStringExtra("placeID");
+                String placeName = data.getStringExtra("placeName");
+                String placeLatLng = data.getStringExtra("placeLatLng");
                 Toast.makeText(this, placeID, Toast.LENGTH_SHORT).show();
+
+                searchView.setQuery(placeName , false);
+
+
             }
         }
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        super.onCreateOptionsMenu(menu);
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
 
     @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
+    public void onMapReady(GoogleMap googleMap) {
+        map = googleMap;
 
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_search) {
-            Intent i = new Intent(this, GooglePlacesActivity.class);
-            startActivityForResult(i, 1);
-            return true;
+        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED
+                && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            return;
         }
+        map.setMyLocationEnabled(true);
 
-        return super.onOptionsItemSelected(item);
     }
-
 }

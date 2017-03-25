@@ -58,13 +58,18 @@ public class GooglePlacesActivity extends FragmentActivity {
                 Place place = PlaceAutocomplete.getPlace(this, data);
                 Intent intent = new Intent();
                 intent.putExtra("placeID", place.getId());
+                intent.putExtra("placeName", place.getName());
+                intent.putExtra("placeLatLng", place.getLatLng());
+
                 setResult(RESULT_OK, intent);
                 finish();
 
             } else if (resultCode == PlaceAutocomplete.RESULT_ERROR) {
                // ERROR !! TODO
+                finish();
             } else if (resultCode == RESULT_CANCELED) {
                 // CANCELED !! TODO
+                finish();
             }
         }
     }

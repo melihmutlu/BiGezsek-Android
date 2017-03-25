@@ -8,10 +8,6 @@
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/anim/design_bottom_sheet_slide_in.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/anim/abc_popup_enter.xml"
     },
@@ -26,10 +22,6 @@
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
         "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/anim/design_snackbar_out.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
