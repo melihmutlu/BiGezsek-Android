@@ -18,8 +18,7 @@ package="com.hackathon.getir.bigezsek">
     </activity>
 
     <activity android:name=".GooglePlacesActivity"
-        android:label="@string/title_activity_google_places"
-        android:theme="@style/AppTheme.NoActionBar">
+        android:label="@string/title_activity_google_places">
     </activity>
 
     <meta-data
