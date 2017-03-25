@@ -56,13 +56,15 @@ public class GooglePlacesActivity extends FragmentActivity {
             if (resultCode == RESULT_OK) {
                 // Get the selected place
                 Place place = PlaceAutocomplete.getPlace(this, data);
-
-                    // TODO
+                Intent intent = new Intent();
+                intent.putExtra("placeID", place.getId());
+                setResult(RESULT_OK, intent);
+                finish();
 
             } else if (resultCode == PlaceAutocomplete.RESULT_ERROR) {
-               // ERROR !!
+               // ERROR !! TODO
             } else if (resultCode == RESULT_CANCELED) {
-                // CANCELED !!
+                // CANCELED !! TODO
             }
         }
     }
