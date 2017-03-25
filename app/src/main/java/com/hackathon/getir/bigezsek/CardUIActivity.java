@@ -35,10 +35,8 @@ public class CardUIActivity extends Activity {
                         .setSwipeInMsgLayoutId(R.layout.swipe_in_msg_view)
                         .setSwipeOutMsgLayoutId(R.layout.swipe_out_msg_view));
 
+        Utils.loadProfiles(this.getApplicationContext(),mSwipeView);
 
-        for(Profile profile : Utils.loadProfiles(this.getApplicationContext())){
-            mSwipeView.addView(new Card(mContext, profile, mSwipeView));
-        }
 
         findViewById(R.id.rejectBtn).setOnClickListener(new View.OnClickListener() {
             @Override

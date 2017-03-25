@@ -9,11 +9,11 @@ import com.google.gson.annotations.SerializedName;
 
 public class Profile {
 
-    @SerializedName("name")
+    @SerializedName("first_name")
     @Expose
     private String name;
 
-    @SerializedName("url")
+    @SerializedName("pic_url")
     @Expose
     private String imageUrl;
 
@@ -21,7 +21,7 @@ public class Profile {
     @Expose
     private Integer age;
 
-    @SerializedName("location")
+    @SerializedName("hangout_place")
     @Expose
     private String location;
 

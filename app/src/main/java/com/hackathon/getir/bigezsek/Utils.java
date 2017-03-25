@@ -4,10 +4,18 @@ import android.content.Context;
 import android.content.res.AssetManager;
 import android.util.Log;
 
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.mindorks.placeholderview.SwipePlaceHolderView;
 
 import org.json.JSONArray;
+import org.json.JSONException;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -22,20 +30,38 @@ public class Utils {
 
     private static final String TAG = "Utils";
 
-    public static List<Profile> loadProfiles(Context context){
+    public static void loadProfiles(final Context context,final SwipePlaceHolderView mSwipeView){
         try{
-            GsonBuilder builder = new GsonBuilder();
-            Gson gson = builder.create();
-            JSONArray array = new JSONArray(loadJSONFromAsset(context, "profiles.json"));
-            List<Profile> profileList = new ArrayList<>();
-            for(int i=0;i<array.length();i++){
-                Profile profile = gson.fromJson(array.getString(i), Profile.class);
-                profileList.add(profile);
-            }
-            return profileList;
+
+            RequestQueue queue = Volley.newRequestQueue(context);
+            String url ="http://bigezsek-backend.herokuapp.com/getUsers?place=ChIJuQfSbQbQyhQRo686317fLx4&date=26.3.2017&hour=aksam&id=2";
+
+            StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
+                    new Response.Listener<String>() {
+                        @Override
+                        public void onResponse(String response) {
+                            GsonBuilder builder = new GsonBuilder();
+                            Gson gson = builder.create();
+                            JSONArray array = null;
+                            try {
+                                array = new JSONArray(response);
+                                for(int i=0;i<array.length();i++){
+                                    Profile profile = gson.fromJson(array.getString(i), Profile.class);
+                                    mSwipeView.addView(new Card(context, profile, mSwipeView));
+                                }
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+                        }
+                    }, new Response.ErrorListener() {
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                }
+            });
+
+            queue.add(stringRequest);
+
         }catch (Exception e){
-            e.printStackTrace();
-            return null;
         }
     }
 
