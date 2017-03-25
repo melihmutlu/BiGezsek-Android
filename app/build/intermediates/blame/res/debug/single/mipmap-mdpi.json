@@ -4,15 +4,7 @@
         "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/melih/AndroidStudioProjects/BiGezsek/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
-        "source": "/home/melih/AndroidStudioProjects/BiGezsek/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/melih/AndroidStudioProjects/BiGezsek/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/home/melih/AndroidStudioProjects/BiGezsek/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]
