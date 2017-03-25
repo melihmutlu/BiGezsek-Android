@@ -24,6 +24,10 @@ package="com.hackathon.getir.bigezsek">
         android:label="@string/title_activity_google_places">
     </activity>
 
+    <activity android:name=".CardUIActivity"
+        android:label="CardUIActivity">
+    </activity>
+
     <meta-data
         android:name="com.google.android.geo.API_KEY"
         android:value="AIzaSyAZEViKGUsEJ-2byueG2TktfWPFoXPoayg"/>

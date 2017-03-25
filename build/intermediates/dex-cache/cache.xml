@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/97c5faed4a28bc73d6f02d64f1ca97a600b8b3c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88fbf92e1ab1efd9944e031fe26aef5d52771277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/6cf08d4cf245f94b8a6d8466d3e139a5c852faaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a7b08b357ff6103c6ef6bfdf6849b23f3964667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/fb48833da70f27678655d38b3b96698e61eb4486/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dd5d6adf23c0d26da51f9817e300747fa7a55c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/d1b7679b16780b767f0ad1e09e4acc73c96722e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3035e33e0d83fab6413176fcb87f98bd050a685/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/3b99a67a4defb0ab1a54220d091de190534637d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9731dec2775e03fa0e3ee3ade9e1e3a8553df161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/ad4745aa6f34c5bc1149d2bdf3e4b323e68f0c86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a6a19a0588a2c6f411279201303094aefffa602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/7e23de0e2ecf4071b58d82e6013c8ea974323203/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c9b24e36f5771a43262cfb38b747366f0adf5ea">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_207b0808fbbd600d84035ea65baae507481842a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/8ae701f3785459b156f03522bab1dca7bcb42a02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e7d8f55959821b1f14ed9f3da804d3ca0088848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/de164a1b5f5e8249845cad80f186e992ed640aae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80bf61e6891b5c119b70a8e4973f4ff87fd7634f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/a3cd6e821ad982bb26f9d557aa33fb3cc2db47e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8dd24331b31e89648593b6df62e741365805172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_021531338e84c2934ebc28189e9d6e4310e17158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/fb98d39ca550e8c42c90bec961eba9f281bd4490/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c7ab63889e49ad0d93c05395d540ef8f9784e54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d69d4efca33808824fb2a6e831d987f0c9885882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/692bc260acad8c0c91eaab27531edbc9c26c1fa7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c88a0c533f89b5d0e88ea6158af8925be8d232f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/85027203db7c9957c2f21ef7bb6bd2440bd0b63d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1153fd2cb342a6f16834c84d725625a9213303ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/aa905c38d5d148232ff9d7ce1acd83b815f8af0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_671e70173cfaa6c4e35cd56c0013f792e0614556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/65542ed8f7eef6228150334ab0b7c461c409635b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69b7353e40d267226a30940275c36c0a216800ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/b4be572f0d6b09f27b286b6d1f48509f0f4fa698/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30075f52144e3d891388382f9ec810608427fafe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/18a238ed858ed672db51643579df539039632ffa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ad56d946421e86d792ffe67c01c97bf2007f258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/760981eff1a26fb3ca91f54a21a65ac6e8170e38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32315d02fb5f8b7d31cbb987a5f04324e6d9cb69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/9b3590efbdaf558651870435b56e4f5004f3a04e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee5a29e1a6c4c760f1c3442a2ba9bef8624cfbea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/a604a6119edeb03b2b4d91a73966255b34179d05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_945a00cc29b9373f75aad64424e4abeff14d772d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/2937585a0bfbc1d7ba9e69ac83b56925578032d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_123e5ffc8d9f97d9c17b56d3aeb98fce4d096b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a5a21b538b2fc978f62d2fa4328e822ee4ac07d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5ee5e7995aabec4ab8618ed762d0003d77ea9bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1ada5531f4b6f5c179310a3da7e26360a9472d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/979fcb94cb194f33f1956cfbebdd352e1b7fc1e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69ba4251c6b27618966c6c2499e2a61a50c2c95b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/5e6a4310b176726dc41f6db65c6e5b8932e0d655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abafa68f741970b80cd907521764f41c458259d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/5e7d2c9572210f62ec263a2df17fe221bd803e9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68c97cbca3b2d8f5a303fb162ba422a1d3679da0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/75cb228c3bb9c0b03c0a8cea31157922a7319517/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8e25827b0b973b095f82f71c2f4bd3efcbe3040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/ba7eb67c39a6f62b636d4c9735e0306cafe32870/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c03ad0da0fed9fecbafea7d5390a27b6aab6d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/ea139c70d70f3875ebaa9b7cb4fdbfabacb69095/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8f3ebc9b17a1ee69c4160fea2ae48354afd5890/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_077d7a1df3b77672dad796919b0ce3b99bd75488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/bb1e342087eaf54b66f8a46bbd1c63f7ea62655c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1314437370b8f07ae469555d55210dbd4b0370f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80ba005597ba0780a69021112f37b533118f22fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/6ed640dca0a283499e7f04e3ad562024ceda918b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ebeb850dd96781b29caeac25ac8ca8ae1901fe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b688b7bdeb560c128c421217303ee9cfccc1029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/e25fd447af4742d890b3ac25de56354a9152d8b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b3089bfada6b964c0b0ed7410edeb34c2f15b3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b67968d092bbf321d31669a35e8872ccc57428af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3eb429bbd73abaf1ddd88ab29759e81c378942e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/0c00595727c02b9ecccda9902cb747435de850e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3140c83cd71590bbbc94d0b09006597a52a1bc20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/76b3fea542afa3334df2f6edcaeb1a2dbc2f5a17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56feee972f59ff4896436fb7f6e103b6b6023321/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f005bf024a8f28bc9cbc9cc04417573f4a32437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_415b945bc481f35841ac978b2b6fda1ed8d685c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/2d6d2f6fb87727d8b7d151405e4538a5418f9e5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de4a7b6750deeb4ed7c2f583bfe98a9029374a80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/be9676ecd93c4b3d0b6113eafd0a5822d55adf80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e42804ed24a0c52f180a90f3ced3045c67e517e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/95f34e166237f01ec33e9f8ac3e5df6ddcb94153/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a136b1caf1261b59a6389bb285d91e80a1252c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/c863d4b9602a1b3ef6363056a999cab476c78fbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ff180825d2ac505ed8d9799b16e2ee5cd6b6d0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/f720dd4f90106d5a8ca10b8b9e1b9ee0d34d8375/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51d94d5638195f54ed576ee1f83a0879b2b62909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/b23e421a915d6a17cb796a1c1020eec4214f01c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01d719eaa12cd2ee8bf0005f5139e6cc747ecc89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/90efa2a92e26d2b75c5863958683da924bd54654/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0027fa430709d1350f5b19782551cf938daf171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/d074ade505348c09169ffbc159e22bd7298fc300/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f50408560bdce46c56bbd7cdabd51960d347161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_883887124cdd3ac745a7486f579f4f510e68d0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/489432ba8032e1b92f76c9ebe7b08d992e84421b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc2f295625ba24c39995735aa3823db1dc0f6d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/210af112c09b6698cb637e437cd1d2236315fb9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af5d9f36968ba98a16f9a4cce53b3c3d93c5bb5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_669b5809afacddd49a277c3765451a0e32e33b48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/28778d87b774298c6a15b588dd81c30d4b111013/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_806723706e51662e7696ec63a25f22e8d807026e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/56de1f90cd9165b9efe843b10f676b92350b3125/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d20a18ca0139ce9643ff4c84dd6eca8e22fa1d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df3c3489731722ec9597ef32183c07f312514a06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/2c0b8e40df22c4a0d31be98989da5efaf8c24a83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04499415c75f3c912e58a7131edae83e746e6a91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0098c885cf8d34f7837c270d7418f6804e3b9205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_1e7f53601d75c2504e208799eb5a594068535094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_204ce5e42401ab77e67f13f63eeb7570d2e05b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/9d35bf9963062c0797dbc0304db908f101f8ca11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81bc78d81a00245c5e009519eafed4b0d79020e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/d60d7d1c3101ea4ad0fb70da3c2877990c838662/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ae76af8c8f913209f7ee55317db7a90d852eb70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/86922584c6888329dd450d6476e21d54dc3bca59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fea01b3981890c4b6873460d5040dc7785e1e62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_9cc5c06716d8566d1191c94f95bf0eb3c00ae650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/a7cfcbae7b949fabc49321dd9fed2fee5afbf96f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88f7dd944c07fbd6a9e9e7ca0648ff8d082631b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/d69cd59ba77ecfeea303894428bde763b7d02e8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f14e24ff7125daa6904eb1db2f7f5a03317dc65e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/b5c2889beb2a0100ca91ea9b3eb7c8d12eb9730f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4572e20c3be8855738e3eb2327e6ce75b5be9601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/ba73749b5830ae4b8915f5165ac96c5d01116bd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ff326a7f0f024a50ffec3309bfc7752a7ed17d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_444299f5c3f51b7978bc75387c38c67610eb5dcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taha/.android/build-cache/0e88e8dafd9395b731bd9b7f90d8509b985a506f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87554abb6dab812bf2c91d2af6a47af34ab05a31/classes.dex" />
+    </item>
+
+</items>

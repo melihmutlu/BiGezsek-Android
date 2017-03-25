@@ -4,60 +4,60 @@
         "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_volume_control.xml"
     },
     {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
-        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_intro_overlay.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/res/layout/mr_playback_control.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_item_header.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_lines_media.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_snackbar.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
         "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_chooser_dialog.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_snackbar.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/swipe_out_msg_view.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/swipe_out_msg_view.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
@@ -68,56 +68,64 @@
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
-        "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_controller_volume_item.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_menu_item.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_mini_controller.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_icon_group.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/swipe_in_msg_view.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/swipe_in_msg_view.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_mode_bar.xml"
     },
     {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
         "source": "/home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/res/layout/place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_part_time.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_item.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
-        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_expanded_controller_activity.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/suggest_item.xml",
+        "source": "/Users/taha/.android/build-cache/28778d87b774298c6a15b588dd81c30d4b111013/output/res/layout/suggest_item.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/content_google_places.xml",
@@ -132,36 +140,16 @@
         "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/activity_cardui.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_tab_text.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
         "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_controller_material_dialog_b.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_content_include.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
@@ -170,14 +158,6 @@
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
         "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
-        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
@@ -192,6 +172,10 @@
         "source": "/home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/res/layout/suggest_item.xml"
     },
     {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
@@ -204,60 +188,76 @@
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/swipe_out_msg_view.xml",
-        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/swipe_out_msg_view.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/card_view.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/card_view.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
         "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/swipe_in_msg_view.xml",
-        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/swipe_in_msg_view.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
-        "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_playback_control.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
         "source": "/home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/res/layout/place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/search_view.xml",
-        "source": "/home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/res/layout/search_view.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/res/layout/mr_volume_control.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_media.xml"
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/search_view.xml",
+        "source": "/home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/res/layout/search_view.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/search_view.xml",
+        "source": "/Users/taha/.android/build-cache/28778d87b774298c6a15b588dd81c30d4b111013/output/res/layout/search_view.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
@@ -266,14 +266,6 @@
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/content_main.xml",
-        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/content_main.xml"
-    },
-    {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
@@ -288,12 +280,324 @@
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
         "source": "/home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/content_google_places.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/content_google_places.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/activity_google_places.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/activity_google_places.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/swipe_out_msg_view.xml",
+        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/swipe_out_msg_view.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/swipe_in_msg_view.xml",
+        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/swipe_in_msg_view.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/activity_cardui.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/layout/activity_cardui.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -304,15 +608,27 @@
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/res/layout/cast_intro_overlay.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout/abc_action_mode_bar.xml"
     }
 ]

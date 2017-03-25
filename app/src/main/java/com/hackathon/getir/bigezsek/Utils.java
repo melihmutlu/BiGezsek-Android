@@ -3,6 +3,7 @@ package com.hackathon.getir.bigezsek;
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
@@ -30,12 +31,12 @@ public class Utils {
 
     private static final String TAG = "Utils";
 
-    public static void loadProfiles(final Context context,final SwipePlaceHolderView mSwipeView){
+    public static void loadProfiles(final Context context,final SwipePlaceHolderView mSwipeView,final String location){
         try{
 
             RequestQueue queue = Volley.newRequestQueue(context);
-            String url ="http://bigezsek-backend.herokuapp.com/getUsers?place=ChIJuQfSbQbQyhQRo686317fLx4&date=26.3.2017&hour=aksam&id=2";
-
+            String url ="http://bigezsek-backend.herokuapp.com/getUsers?place="+location+"&date=26.3.2017&hour=aksam&id=2";
+            Log.d("asd",location);
             StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
                     new Response.Listener<String>() {
                         @Override
@@ -48,6 +49,9 @@ public class Utils {
                                 for(int i=0;i<array.length();i++){
                                     Profile profile = gson.fromJson(array.getString(i), Profile.class);
                                     mSwipeView.addView(new Card(context, profile, mSwipeView));
+                                }
+                                if(array.length()==0){
+                                    Toast.makeText(context,"There is nobody wanna go here!",Toast.LENGTH_LONG).show();
                                 }
                             } catch (JSONException e) {
                                 e.printStackTrace();
@@ -63,24 +67,5 @@ public class Utils {
 
         }catch (Exception e){
         }
-    }
-
-    private static String loadJSONFromAsset(Context context, String jsonFileName) {
-        String json = null;
-        InputStream is=null;
-        try {
-            AssetManager manager = context.getAssets();
-            Log.d(TAG,"path "+jsonFileName);
-            is = manager.open(jsonFileName);
-            int size = is.available();
-            byte[] buffer = new byte[size];
-            is.read(buffer);
-            is.close();
-            json = new String(buffer, "UTF-8");
-        } catch (IOException ex) {
-            ex.printStackTrace();
-            return null;
-        }
-        return json;
     }
 }

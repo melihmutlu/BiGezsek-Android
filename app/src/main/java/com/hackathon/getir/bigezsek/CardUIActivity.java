@@ -24,6 +24,8 @@ public class CardUIActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cardui);
 
+        String location = getIntent().getExtras().getString("location");
+
         mSwipeView = (SwipePlaceHolderView)findViewById(R.id.swipeView);
         mContext = getApplicationContext();
 
@@ -35,7 +37,7 @@ public class CardUIActivity extends Activity {
                         .setSwipeInMsgLayoutId(R.layout.swipe_in_msg_view)
                         .setSwipeOutMsgLayoutId(R.layout.swipe_out_msg_view));
 
-        Utils.loadProfiles(this.getApplicationContext(),mSwipeView);
+        Utils.loadProfiles(this.getApplicationContext(),mSwipeView,location);
 
 
         findViewById(R.id.rejectBtn).setOnClickListener(new View.OnClickListener() {

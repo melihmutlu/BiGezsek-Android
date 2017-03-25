@@ -1,471 +1,476 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:2:1-32:12
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:2:1-36:12
 	package
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:3:1-39
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:3:1-39
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:5:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/melih/.android/build-cache/42d2aa3eb7747b12a96f0fc6b6e5f400303b6c58/output/AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:20:5-66
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/taha/.android/build-cache/18a238ed858ed672db51643579df539039632ffa/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/taha/.android/build-cache/de164a1b5f5e8249845cad80f186e992ed640aae/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/taha/.android/build-cache/0e88e8dafd9395b731bd9b7f90d8509b985a506f/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/taha/.android/build-cache/c863d4b9602a1b3ef6363056a999cab476c78fbe/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/taha/.android/build-cache/a604a6119edeb03b2b4d91a73966255b34179d05/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:8:5-31:15
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/melih/.android/build-cache/eda538de4389a1323c2b0b1c8dd3c3cb0f856f72/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:26:5-20
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/melih/.android/build-cache/d80204f4322bf14c6f0de7b70c66989969b662f6/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] /home/melih/.android/build-cache/6b04e8dbc6da3b0f7dce280f06c109c445929c51/output/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services:10.2.1] /home/melih/.android/build-cache/b7971150ceddc2ede30ca4793f950f4769887c26/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/melih/.android/build-cache/d66082ecf6ffb7a0117f260d1b8676a7f5ccbbc4/output/AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] /home/melih/.android/build-cache/2ad0b7ac45bf7059b49371a28f0ee956170722ad/output/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/melih/.android/build-cache/63af9cd9fc87da110ee2c3be6ac2ab5080141b0f/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-config:10.2.1] /home/melih/.android/build-cache/f575f02dfd33d805b5f03671e3766018b39b6364/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/melih/.android/build-cache/6b1689d832dc158f1ef31e7a8369c0266bdbb732/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/melih/.android/build-cache/42d2aa3eb7747b12a96f0fc6b6e5f400303b6c58/output/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/melih/.android/build-cache/b4f6fc535d69b5ecd7d1675d82587b8a5dd2a249/output/AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/melih/.android/build-cache/be8903817a38e46c7270002d20796223341131f1/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/melih/.android/build-cache/b706cd922681cf7d408d2513a32dd8e1b6b7e956/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/melih/.android/build-cache/f2d44df4629a68d85a183f666e78e7c57086a807/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/melih/.android/build-cache/615b0b7b67a1563f7d565ae056e448945b75c7f8/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/melih/.android/build-cache/cd200fd5e0106c41efc7b91bf792a3ea010c3481/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/melih/.android/build-cache/871a55d2631a3899bd982594c96beb4b0f278347/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/melih/.android/build-cache/12a7ac2557b7ca5608bc6475a5a500ad67187faa/output/AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/melih/.android/build-cache/b5d37d9faa4bacbca1301a6bfdca283c4f886fa6/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/melih/.android/build-cache/fede846dd30453ff8b5d8aac6ef98afdea942312/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/melih/.android/build-cache/90a8d14b9f012fca14085e3528a90ab7cb1f929f/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/melih/.android/build-cache/b373d58fc885428aee1e64642a79ad5d8f4e358e/output/AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/melih/.android/build-cache/7cf81c243bcde058b4a670f3282ddb9de0803ce5/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/melih/.android/build-cache/8a3f728edde04abf9febffda53ab3eedbe8bbb23/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/melih/.android/build-cache/dde2bfd36e0b75e5d0a9acf54c85437321f7293f/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/melih/.android/build-cache/7ce567c83c7223450aff1ec9fa8c1d32a3973ca5/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/melih/.android/build-cache/a5e9023ef44002f71c055f04ffc446a36f26abc2/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/melih/.android/build-cache/7a4250013f3407a4b1b641f38b926dcebf97a8af/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.0] /home/melih/.android/build-cache/15cd1c6d39fc42900b94696d6c5bd1f2da5d9cfa/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.0] /home/melih/.android/build-cache/9ff1ed980f8aaf23b28377a81c2aafc14e2b30a4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] /home/melih/.android/build-cache/3a17c1e11689b20292eeb9e86090ad604a00c17f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/melih/.android/build-cache/62203b20c4ab68236f55a39aa2e8da2dadd138ae/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/melih/.android/build-cache/499597d7f0e943f5775496c9c4250a063ac6eb05/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/melih/.android/build-cache/2929c3e6f280419b4a22e1ce20cd2e0c56c6b322/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.0] /home/melih/.android/build-cache/bf720dde4ffb5426b6fcde5c13c9d265aa4eb6dc/output/AndroidManifest.xml:29:5-20
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:8:5-35:15
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taha/.android/build-cache/ba7eb67c39a6f62b636d4c9735e0306cafe32870/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/taha/.android/build-cache/d074ade505348c09169ffbc159e22bd7298fc300/output/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/taha/.android/build-cache/a3cd6e821ad982bb26f9d557aa33fb3cc2db47e8/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/taha/.android/build-cache/a7cfcbae7b949fabc49321dd9fed2fee5afbf96f/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/taha/.android/build-cache/856d30b4d75ad9b9c95a78ef01f7b72dc793e05a/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/taha/.android/build-cache/18a238ed858ed672db51643579df539039632ffa/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/taha/.android/build-cache/be9676ecd93c4b3d0b6113eafd0a5822d55adf80/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/taha/.android/build-cache/2937585a0bfbc1d7ba9e69ac83b56925578032d9/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/taha/.android/build-cache/3b99a67a4defb0ab1a54220d091de190534637d3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/taha/.android/build-cache/ea139c70d70f3875ebaa9b7cb4fdbfabacb69095/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/taha/.android/build-cache/95f34e166237f01ec33e9f8ac3e5df6ddcb94153/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/taha/.android/build-cache/de164a1b5f5e8249845cad80f186e992ed640aae/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/taha/.android/build-cache/2d6d2f6fb87727d8b7d151405e4538a5418f9e5b/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/taha/.android/build-cache/75cb228c3bb9c0b03c0a8cea31157922a7319517/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/taha/.android/build-cache/97c5faed4a28bc73d6f02d64f1ca97a600b8b3c7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/taha/.android/build-cache/9b3590efbdaf558651870435b56e4f5004f3a04e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/taha/.android/build-cache/b23e421a915d6a17cb796a1c1020eec4214f01c6/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/taha/.android/build-cache/0e88e8dafd9395b731bd9b7f90d8509b985a506f/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/taha/.android/build-cache/b5c2889beb2a0100ca91ea9b3eb7c8d12eb9730f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/taha/.android/build-cache/c863d4b9602a1b3ef6363056a999cab476c78fbe/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/taha/.android/build-cache/6cf08d4cf245f94b8a6d8466d3e139a5c852faaf/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/taha/.android/build-cache/fb48833da70f27678655d38b3b96698e61eb4486/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/taha/.android/build-cache/8ae701f3785459b156f03522bab1dca7bcb42a02/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/taha/.android/build-cache/2c0b8e40df22c4a0d31be98989da5efaf8c24a83/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/taha/.android/build-cache/760981eff1a26fb3ca91f54a21a65ac6e8170e38/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/taha/.android/build-cache/ba73749b5830ae4b8915f5165ac96c5d01116bd0/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/taha/.android/build-cache/a604a6119edeb03b2b4d91a73966255b34179d05/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/taha/.android/build-cache/aa905c38d5d148232ff9d7ce1acd83b815f8af0e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/taha/.android/build-cache/979fcb94cb194f33f1956cfbebdd352e1b7fc1e1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/taha/.android/build-cache/692bc260acad8c0c91eaab27531edbc9c26c1fa7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/taha/.android/build-cache/fb98d39ca550e8c42c90bec961eba9f281bd4490/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/taha/.android/build-cache/6ed640dca0a283499e7f04e3ad562024ceda918b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/taha/.android/build-cache/bb1e342087eaf54b66f8a46bbd1c63f7ea62655c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/taha/.android/build-cache/28778d87b774298c6a15b588dd81c30d4b111013/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/taha/.android/build-cache/d1b7679b16780b767f0ad1e09e4acc73c96722e4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/taha/.android/build-cache/5e6a4310b176726dc41f6db65c6e5b8932e0d655/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/taha/.android/build-cache/85027203db7c9957c2f21ef7bb6bd2440bd0b63d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/taha/.android/build-cache/65542ed8f7eef6228150334ab0b7c461c409635b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/taha/.android/build-cache/b4be572f0d6b09f27b286b6d1f48509f0f4fa698/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/taha/.android/build-cache/9d35bf9963062c0797dbc0304db908f101f8ca11/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/taha/.android/build-cache/5e7d2c9572210f62ec263a2df17fe221bd803e9b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/taha/.android/build-cache/d60d7d1c3101ea4ad0fb70da3c2877990c838662/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/taha/.android/build-cache/210af112c09b6698cb637e437cd1d2236315fb9f/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:10:5-37
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:10:5-37
 	android:supportsRtl
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:12:5-31
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:12:5-31
 	android:roundIcon
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:11:5-50
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:11:5-50
 	android:allowBackup
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:8:18-44
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:8:18-44
 	android:icon
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:9:5-39
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:9:5-39
 	android:theme
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:13:5-36
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:13:5-36
 activity#com.hackathon.getir.bigezsek.MainActivity
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:14:5-21:16
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:14:5-21:16
 	android:label
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:15:9-41
 	android:theme
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:16:9-52
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:16:9-52
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:14:15-43
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:14:15-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:17:9-20:25
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:17:9-20:25
 action#android.intent.action.MAIN
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:18:13-65
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:18:13-65
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:18:21-62
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:18:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:19:13-73
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:19:13-73
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:19:23-70
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:19:23-70
 activity#com.hackathon.getir.bigezsek.GooglePlacesActivity
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:23:5-25:16
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:23:5-25:16
 	android:label
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:24:9-61
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:24:9-61
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:23:15-51
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:23:15-51
+activity#com.hackathon.getir.bigezsek.CardUIActivity
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:27:5-29:16
+	android:label
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:28:9-39
+	android:name
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:27:15-45
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:27:5-29:66
+ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:31:5-33:66
 	android:value
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:29:9-64
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:33:9-64
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:28:9-54
+		ADDED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml:32:9-54
 uses-sdk
-INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] /home/melih/.android/build-cache/ab8f52124c755fb60171051d9cd7627f97198c0f/output/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/melih/.android/build-cache/eda538de4389a1323c2b0b1c8dd3c3cb0f856f72/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mindorks:placeholderview:0.6.1] /home/melih/.android/build-cache/4f14813bcad96ad3878fef7cf56ed4825574c4fc/output/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:20:5-43
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/melih/.android/build-cache/d80204f4322bf14c6f0de7b70c66989969b662f6/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.volley:volley:1.0.0] /home/melih/.android/build-cache/6b04e8dbc6da3b0f7dce280f06c109c445929c51/output/AndroidManifest.xml:7:5-43
-MERGED from [com.google.android.gms:play-services:10.2.1] /home/melih/.android/build-cache/b7971150ceddc2ede30ca4793f950f4769887c26/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-ads:10.2.1] /home/melih/.android/build-cache/ec466207cac4be1a9d1ac4a3bf17705fe9f857e9/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/melih/.android/build-cache/7f7300bb12b345dd503694aa60e69aecce0e381a/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/melih/.android/build-cache/d66082ecf6ffb7a0117f260d1b8676a7f5ccbbc4/output/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] /home/melih/.android/build-cache/2ad0b7ac45bf7059b49371a28f0ee956170722ad/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/melih/.android/build-cache/63af9cd9fc87da110ee2c3be6ac2ab5080141b0f/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-config:10.2.1] /home/melih/.android/build-cache/f575f02dfd33d805b5f03671e3766018b39b6364/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/melih/.android/build-cache/6b1689d832dc158f1ef31e7a8369c0266bdbb732/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/melih/.android/build-cache/42d2aa3eb7747b12a96f0fc6b6e5f400303b6c58/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/melih/.android/build-cache/b4f6fc535d69b5ecd7d1675d82587b8a5dd2a249/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.1] /home/melih/.android/build-cache/738591aa8f0df6942eb1e7daa2cc28df50aef463/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/melih/.android/build-cache/ac00feb08c879f027ac55a5952c4eaceb479cb6b/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-storage:10.2.1] /home/melih/.android/build-cache/f32be970c6b161a1db3eea947537adbec5227440/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /home/melih/.android/build-cache/5ee1cb0882d34968079daf6208b8ec466db93259/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/melih/.android/build-cache/be8903817a38e46c7270002d20796223341131f1/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/melih/.android/build-cache/b706cd922681cf7d408d2513a32dd8e1b6b7e956/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/melih/.android/build-cache/f2d44df4629a68d85a183f666e78e7c57086a807/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/melih/.android/build-cache/615b0b7b67a1563f7d565ae056e448945b75c7f8/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/melih/.android/build-cache/cd200fd5e0106c41efc7b91bf792a3ea010c3481/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /home/melih/.android/build-cache/0dfa5f7f1d85d0cb5a31f3ebac563faea301b88c/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/melih/.android/build-cache/871a55d2631a3899bd982594c96beb4b0f278347/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/melih/.android/build-cache/12a7ac2557b7ca5608bc6475a5a500ad67187faa/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/melih/.android/build-cache/b5d37d9faa4bacbca1301a6bfdca283c4f886fa6/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/melih/.android/build-cache/fede846dd30453ff8b5d8aac6ef98afdea942312/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/melih/.android/build-cache/90a8d14b9f012fca14085e3528a90ab7cb1f929f/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /home/melih/.android/build-cache/ffd53cbe351fd0d84860d77862e7bbc471e067db/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/melih/.android/build-cache/b373d58fc885428aee1e64642a79ad5d8f4e358e/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/melih/.android/build-cache/7cf81c243bcde058b4a670f3282ddb9de0803ce5/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /home/melih/.android/build-cache/0ac54bf0078e3f3cce58c4102f308284dadc41d5/output/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/melih/.android/build-cache/8a3f728edde04abf9febffda53ab3eedbe8bbb23/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/melih/.android/build-cache/dde2bfd36e0b75e5d0a9acf54c85437321f7293f/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/melih/.android/build-cache/7ce567c83c7223450aff1ec9fa8c1d32a3973ca5/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:17:5-43
-MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/melih/.android/build-cache/a5e9023ef44002f71c055f04ffc446a36f26abc2/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/melih/.android/build-cache/7a4250013f3407a4b1b641f38b926dcebf97a8af/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/melih/.android/build-cache/8f558fae578658babfe275828c5a66d503e32459/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.0] /home/melih/.android/build-cache/15cd1c6d39fc42900b94696d6c5bd1f2da5d9cfa/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.0] /home/melih/.android/build-cache/9ff1ed980f8aaf23b28377a81c2aafc14e2b30a4/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.0] /home/melih/.android/build-cache/3a17c1e11689b20292eeb9e86090ad604a00c17f/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/melih/.android/build-cache/62203b20c4ab68236f55a39aa2e8da2dadd138ae/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/melih/.android/build-cache/499597d7f0e943f5775496c9c4250a063ac6eb05/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/melih/.android/build-cache/2929c3e6f280419b4a22e1ce20cd2e0c56c6b322/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.0] /home/melih/.android/build-cache/bf720dde4ffb5426b6fcde5c13c9d265aa4eb6dc/output/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/taha/.android/build-cache/ba7eb67c39a6f62b636d4c9735e0306cafe32870/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mindorks:placeholderview:0.6.1] /Users/taha/.android/build-cache/7e23de0e2ecf4071b58d82e6013c8ea974323203/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/taha/.android/build-cache/d074ade505348c09169ffbc159e22bd7298fc300/output/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/taha/.android/build-cache/a3cd6e821ad982bb26f9d557aa33fb3cc2db47e8/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/taha/.android/build-cache/a7cfcbae7b949fabc49321dd9fed2fee5afbf96f/output/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/taha/.android/build-cache/856d30b4d75ad9b9c95a78ef01f7b72dc793e05a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /Users/taha/.android/build-cache/0c00595727c02b9ecccda9902cb747435de850e0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/taha/.android/build-cache/18a238ed858ed672db51643579df539039632ffa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /Users/taha/.android/build-cache/489432ba8032e1b92f76c9ebe7b08d992e84421b/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/taha/.android/build-cache/be9676ecd93c4b3d0b6113eafd0a5822d55adf80/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/taha/.android/build-cache/cfc9957eef65f987a07a8aba55ac49096e12c5fc/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/taha/.android/build-cache/2937585a0bfbc1d7ba9e69ac83b56925578032d9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/taha/.android/build-cache/3b99a67a4defb0ab1a54220d091de190534637d3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/taha/.android/build-cache/ea139c70d70f3875ebaa9b7cb4fdbfabacb69095/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/taha/.android/build-cache/95f34e166237f01ec33e9f8ac3e5df6ddcb94153/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/taha/.android/build-cache/de164a1b5f5e8249845cad80f186e992ed640aae/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/taha/.android/build-cache/2d6d2f6fb87727d8b7d151405e4538a5418f9e5b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /Users/taha/.android/build-cache/76b3fea542afa3334df2f6edcaeb1a2dbc2f5a17/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /Users/taha/.android/build-cache/86922584c6888329dd450d6476e21d54dc3bca59/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /Users/taha/.android/build-cache/e25fd447af4742d890b3ac25de56354a9152d8b6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /Users/taha/.android/build-cache/56de1f90cd9165b9efe843b10f676b92350b3125/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/taha/.android/build-cache/75cb228c3bb9c0b03c0a8cea31157922a7319517/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/taha/.android/build-cache/97c5faed4a28bc73d6f02d64f1ca97a600b8b3c7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/taha/.android/build-cache/9b3590efbdaf558651870435b56e4f5004f3a04e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/taha/.android/build-cache/b23e421a915d6a17cb796a1c1020eec4214f01c6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/taha/.android/build-cache/0e88e8dafd9395b731bd9b7f90d8509b985a506f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/taha/.android/build-cache/b5c2889beb2a0100ca91ea9b3eb7c8d12eb9730f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/taha/.android/build-cache/c863d4b9602a1b3ef6363056a999cab476c78fbe/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /Users/taha/.android/build-cache/90efa2a92e26d2b75c5863958683da924bd54654/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/taha/.android/build-cache/6cf08d4cf245f94b8a6d8466d3e139a5c852faaf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/taha/.android/build-cache/fb48833da70f27678655d38b3b96698e61eb4486/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/taha/.android/build-cache/8ae701f3785459b156f03522bab1dca7bcb42a02/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/taha/.android/build-cache/2c0b8e40df22c4a0d31be98989da5efaf8c24a83/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/taha/.android/build-cache/760981eff1a26fb3ca91f54a21a65ac6e8170e38/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /Users/taha/.android/build-cache/ad4745aa6f34c5bc1149d2bdf3e4b323e68f0c86/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/taha/.android/build-cache/ba73749b5830ae4b8915f5165ac96c5d01116bd0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/taha/.android/build-cache/a604a6119edeb03b2b4d91a73966255b34179d05/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/taha/.android/build-cache/aa905c38d5d148232ff9d7ce1acd83b815f8af0e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /Users/taha/.android/build-cache/f720dd4f90106d5a8ca10b8b9e1b9ee0d34d8375/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/taha/.android/build-cache/979fcb94cb194f33f1956cfbebdd352e1b7fc1e1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/taha/.android/build-cache/692bc260acad8c0c91eaab27531edbc9c26c1fa7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/taha/.android/build-cache/fb98d39ca550e8c42c90bec961eba9f281bd4490/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/taha/.android/build-cache/6ed640dca0a283499e7f04e3ad562024ceda918b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/taha/.android/build-cache/bb1e342087eaf54b66f8a46bbd1c63f7ea62655c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/taha/.android/build-cache/28778d87b774298c6a15b588dd81c30d4b111013/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.0] /Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/taha/.android/build-cache/d1b7679b16780b767f0ad1e09e4acc73c96722e4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/taha/.android/build-cache/5e6a4310b176726dc41f6db65c6e5b8932e0d655/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/taha/.android/build-cache/d69cd59ba77ecfeea303894428bde763b7d02e8e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /Users/taha/.android/build-cache/85027203db7c9957c2f21ef7bb6bd2440bd0b63d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /Users/taha/.android/build-cache/65542ed8f7eef6228150334ab0b7c461c409635b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/taha/.android/build-cache/b4be572f0d6b09f27b286b6d1f48509f0f4fa698/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/taha/.android/build-cache/9d35bf9963062c0797dbc0304db908f101f8ca11/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/taha/.android/build-cache/5e7d2c9572210f62ec263a2df17fe221bd803e9b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/taha/.android/build-cache/d60d7d1c3101ea4ad0fb70da3c2877990c838662/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /Users/taha/.android/build-cache/210af112c09b6698cb637e437cd1d2236315fb9f/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.0] /Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taha/StudioProjects/BiGezsek-Android/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/melih/.android/build-cache/a5e9023ef44002f71c055f04ffc446a36f26abc2/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/melih/.android/build-cache/7a4250013f3407a4b1b641f38b926dcebf97a8af/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/melih/.android/build-cache/8f558fae578658babfe275828c5a66d503e32459/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.0] /home/melih/.android/build-cache/15cd1c6d39fc42900b94696d6c5bd1f2da5d9cfa/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.0] /home/melih/.android/build-cache/9ff1ed980f8aaf23b28377a81c2aafc14e2b30a4/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] /home/melih/.android/build-cache/3a17c1e11689b20292eeb9e86090ad604a00c17f/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/melih/.android/build-cache/62203b20c4ab68236f55a39aa2e8da2dadd138ae/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/melih/.android/build-cache/499597d7f0e943f5775496c9c4250a063ac6eb05/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/melih/.android/build-cache/2929c3e6f280419b4a22e1ce20cd2e0c56c6b322/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.0] /home/melih/.android/build-cache/bf720dde4ffb5426b6fcde5c13c9d265aa4eb6dc/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:cardview-v7:25.3.0] /Users/taha/.android/build-cache/d074ade505348c09169ffbc159e22bd7298fc300/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.0] /Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/taha/.android/build-cache/d1b7679b16780b767f0ad1e09e4acc73c96722e4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/taha/.android/build-cache/5e6a4310b176726dc41f6db65c6e5b8932e0d655/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/taha/.android/build-cache/d69cd59ba77ecfeea303894428bde763b7d02e8e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/taha/.android/build-cache/85027203db7c9957c2f21ef7bb6bd2440bd0b63d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/taha/.android/build-cache/65542ed8f7eef6228150334ab0b7c461c409635b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/taha/.android/build-cache/b4be572f0d6b09f27b286b6d1f48509f0f4fa698/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/taha/.android/build-cache/9d35bf9963062c0797dbc0304db908f101f8ca11/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/taha/.android/build-cache/5e7d2c9572210f62ec263a2df17fe221bd803e9b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/taha/.android/build-cache/d60d7d1c3101ea4ad0fb70da3c2877990c838662/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/taha/.android/build-cache/210af112c09b6698cb637e437cd1d2236315fb9f/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:24:9-31
+		ADDED from [com.android.support:cardview-v7:25.3.0] /Users/taha/.android/build-cache/d074ade505348c09169ffbc159e22bd7298fc300/output/AndroidManifest.xml:24:9-31
 	android:name
-		ADDED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:cardview-v7:25.3.0] /Users/taha/.android/build-cache/d074ade505348c09169ffbc159e22bd7298fc300/output/AndroidManifest.xml:23:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/melih/.android/build-cache/12a7ac2557b7ca5608bc6475a5a500ad67187faa/output/AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/taha/.android/build-cache/18a238ed858ed672db51643579df539039632ffa/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/taha/.android/build-cache/fb48833da70f27678655d38b3b96698e61eb4486/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/taha/.android/build-cache/a604a6119edeb03b2b4d91a73966255b34179d05/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:20:22-76
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/taha/.android/build-cache/4cfc99c83c3fb98d25a036fb14f4e8e7d8d8eec7/output/AndroidManifest.xml:26:19-91
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:24:5-67
+ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/taha/.android/build-cache/18a238ed858ed672db51643579df539039632ffa/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/taha/.android/build-cache/a604a6119edeb03b2b4d91a73966255b34179d05/output/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/taha/.android/build-cache/18a238ed858ed672db51643579df539039632ffa/output/AndroidManifest.xml:24:22-65
 activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:9-25:20
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:20:9-25:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:51-74
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:20:51-74
 	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:75-121
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:20:75-121
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:19-50
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:20:19-50
 intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:21:13-24:29
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:21:13-24:29
 action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:22:17-89
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:22:17-89
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:22:25-87
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:22:25-87
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:23:17-75
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:23:27-73
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/taha/.android/build-cache/10a1c3f4d5ef77d24ce4597dc56b57de2659071c/output/AndroidManifest.xml:23:27-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:9-189
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:129-162
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:20:129-162
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:20:163-187
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:20:69-128
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:19-68
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:20:19-68
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:9-184
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:24:9-184
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:64-87
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:24:64-87
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:24:88-182
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:18-63
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/taha/.android/build-cache/5b5909df814c93ef7b804535d5ab93b1920ecfe1/output/AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:7:18-90
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/taha/.android/build-cache/88d23a53fe43a5ac772ddc9b8f3ba60853bd1b0b/output/AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:23:18-87
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:24:13-26:29
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:24:13-26:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:24:28-51
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:24:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:25:17-77
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:25:25-75
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/taha/.android/build-cache/028474a33f72cdf209fa97deeac3cb6954c91ba9/output/AndroidManifest.xml:25:25-75
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:22:5-81
+ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/taha/.android/build-cache/0e88e8dafd9395b731bd9b7f90d8509b985a506f/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/taha/.android/build-cache/c863d4b9602a1b3ef6363056a999cab476c78fbe/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/taha/.android/build-cache/0e88e8dafd9395b731bd9b7f90d8509b985a506f/output/AndroidManifest.xml:20:22-79
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:28:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:30:27-75
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/taha/.android/build-cache/9401617804504298291f724e27481ca499d5449d/output/AndroidManifest.xml:30:27-75
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/taha/.android/build-cache/22a3a6932687266703a5ab5d700cc2539617999b/output/AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/taha/.android/build-cache/da12367ba7aa2a49ac2a567fdb477f88e433db5c/output/AndroidManifest.xml:32:16-87
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:9-35:20
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:30:9-35:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:31:13-34:29
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:31:13-34:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:32:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:33:17-60
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:33:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:33:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:33:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:39:9-119
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:39:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:39:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:39:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:39:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:39:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:43:9-47:19
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:43:9-47:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:43:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:43:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:43:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:43:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:44:13-46:29
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:44:13-46:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:44:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:44:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:45:17-79
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:45:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:45:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/taha/.android/build-cache/cd9a27dfac9fd6ca4d8c7898a30589148f98cccc/output/AndroidManifest.xml:45:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/taha/.android/build-cache/f0485739d3f35f1670b77a0a3297b5657321093b/output/AndroidManifest.xml:6:79-143
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/taha/.android/build-cache/d8861b1190295e55c36efa81005d959a82b9adfe/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/taha/.android/build-cache/fb98d39ca550e8c42c90bec961eba9f281bd4490/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/taha/.android/build-cache/fb98d39ca550e8c42c90bec961eba9f281bd4490/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/taha/.android/build-cache/fb98d39ca550e8c42c90bec961eba9f281bd4490/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/taha/.android/build-cache/fb98d39ca550e8c42c90bec961eba9f281bd4490/output/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/taha/.android/build-cache/bb1e342087eaf54b66f8a46bbd1c63f7ea62655c/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/taha/.android/build-cache/bb1e342087eaf54b66f8a46bbd1c63f7ea62655c/output/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/taha/.android/build-cache/bb1e342087eaf54b66f8a46bbd1c63f7ea62655c/output/AndroidManifest.xml:20:20-65

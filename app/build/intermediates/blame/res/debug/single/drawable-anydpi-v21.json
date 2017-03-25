@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/taha/.android/build-cache/639e77d30d2196c25ea4d5457a93daaa1336a3a6/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",

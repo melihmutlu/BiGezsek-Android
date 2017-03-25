@@ -43,7 +43,9 @@ public class MainActivity extends AppCompatActivity {
         if (requestCode == 1) {
             if(resultCode == RESULT_OK){
                 String placeID =data.getStringExtra("placeID");
-                Toast.makeText(this, placeID, Toast.LENGTH_SHORT).show();
+                Intent getCards = new Intent(this,CardUIActivity.class);
+                getCards.putExtra("location",placeID);
+                startActivity(getCards);
             }
         }
     }
