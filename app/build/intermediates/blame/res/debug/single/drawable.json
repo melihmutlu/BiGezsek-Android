@@ -212,6 +212,10 @@
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/drawable/cast_ic_mini_controller_stop.xml"
     },
     {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/border_red.xml",
+        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/drawable/border_red.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
     },
@@ -224,16 +228,20 @@
         "source": "/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/res/drawable/cast_ic_mini_controller_play.xml"
     },
     {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/border_green.xml",
+        "source": "/home/melih/Workspace/BiGezsek-Android/app/src/main/res/drawable/border_green.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/color_cursor_white.xml",
         "source": "/home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/res/drawable/color_cursor_white.xml"
+    },
+    {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
