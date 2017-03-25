@@ -84,12 +84,6 @@ public class MainActivity extends AppCompatActivity {
             int month = calendar.get(Calendar.MONTH);
             int day = calendar.get(Calendar.DAY_OF_MONTH);
 
-            /*
-                Initialize a new DatePickerDialog
-
-                DatePickerDialog(Context context, DatePickerDialog.OnDateSetListener callBack,
-                    int year, int monthOfYear, int dayOfMonth)
-             */
             DatePickerDialog dpd = new DatePickerDialog(getActivity(),this,year,month,day);
             return  dpd;
         }
