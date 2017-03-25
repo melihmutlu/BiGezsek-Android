@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_1ae6a1f21f9624d38ba992cf9b604ce5232fe49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/bf720dde4ffb5426b6fcde5c13c9d265aa4eb6dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_9b689a4b9d85c97d4dfefc07c3d673618dd20585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/7ce567c83c7223450aff1ec9fa8c1d32a3973ca5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_71060124f6f8a6b5a6085fdcffb3ccc24738b9bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/5ee1cb0882d34968079daf6208b8ec466db93259/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_7465df6119b394abb530ff387d45fbe0defe27c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/ffd53cbe351fd0d84860d77862e7bbc471e067db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_5eef67951e8c807dfd7060777635e64d2a3a1da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_e0a019e82de73bf45ff140dd812367c80feffbcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_f78fce590ff9ac29d85a6226aa3a165de25725ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/7a4250013f3407a4b1b641f38b926dcebf97a8af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_d1641f9a557b84c46e3266f63444bb289afe2ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/0dfa5f7f1d85d0cb5a31f3ebac563faea301b88c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_2cdbd91fa058c746fb55831ec17ef4f0ea4d9a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_9e5d22caa18aad5c63a1952d338dd98e71ce2345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/12a7ac2557b7ca5608bc6475a5a500ad67187faa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_e723d9512f5f3c45217dd33b3d90baf91a4d5817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/871a55d2631a3899bd982594c96beb4b0f278347/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_ddeae27e2e4ee23ff58a57a2041489ea06ecd179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_4ecf6a3258c2aa2da1be074bebbd4db9fb078ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_189fae6c51067f33c6dd1b3a706f0512824b8311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/eda538de4389a1323c2b0b1c8dd3c3cb0f856f72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_df954bb692f4cf3bbc2178aee436c490a46cd223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/cd200fd5e0106c41efc7b91bf792a3ea010c3481/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_5294670cf9f016cb1261f55f395e37f33a58c95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/fede846dd30453ff8b5d8aac6ef98afdea942312/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_3c4822ab40a9e50771e08e7744ee8982f2da5774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/ac00feb08c879f027ac55a5952c4eaceb479cb6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_29af722d997bf392d687a8d2022480e539dd4677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/7cf81c243bcde058b4a670f3282ddb9de0803ce5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_e118349a28badd7f0eabeb1e7ec597cb0a17d54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/f32be970c6b161a1db3eea947537adbec5227440/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_b838c74a37ef834bdd370db746f95354e42d108a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_8a26b8d3444b229763dc42f0dd2ebbf2ccbc3b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/0ac54bf0078e3f3cce58c4102f308284dadc41d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_54bdde421057bafdec642c0df28912b10fab4b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_cfb5a5311dd6b311dac8b622227a92a12ad22c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/b4f6fc535d69b5ecd7d1675d82587b8a5dd2a249/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_accfe170b2f5377e435fde1dca0a530aad621a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/f575f02dfd33d805b5f03671e3766018b39b6364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_456d60403747c95322b08bae7553cccd315a4544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_f206e993fb4c99afe962fe8538bcd5f8dcb70c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/62203b20c4ab68236f55a39aa2e8da2dadd138ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_093729c4d8657ca4f29cdb89d26398885192112c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/15cd1c6d39fc42900b94696d6c5bd1f2da5d9cfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_8cc3435fb0ee43f99d68cf873f159aa3a05fdd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/7f7300bb12b345dd503694aa60e69aecce0e381a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_87f1ef74efbdbc9d0968dd3fe1eeeedc9f6a37a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/8f558fae578658babfe275828c5a66d503e32459/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_7f2bda87ee34c87bd270672dc6552ed564692a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_80f08f27389600b25b7261fde65cd626ef48a4ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_865eff710b899381a266f828ee61fa6bd27375fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_d5ea72c673a15c2451a433ab062af1bfd6c3688c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/90a8d14b9f012fca14085e3528a90ab7cb1f929f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_eb05b4635704b9d8c947701a838a18be1f391eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/3a17c1e11689b20292eeb9e86090ad604a00c17f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_9d4e5e398c47ddd84fadebee8ca75d06b268ca62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/d66082ecf6ffb7a0117f260d1b8676a7f5ccbbc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_6a2f59cec5c03f2b48ad039e7cb2f7d0ad9ddfa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/a5e9023ef44002f71c055f04ffc446a36f26abc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_73683b82eed6a164a12d0798192cbb7beb5cd9be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_32b2031c634bd25e23024958dd3d7eeab211e65d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/2929c3e6f280419b4a22e1ce20cd2e0c56c6b322/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_c301a5666d371558aa5c69d98e6c80b60625b1db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/6b1689d832dc158f1ef31e7a8369c0266bdbb732/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_0a1c82d66eae75932d3e8c61ac650418a68b81ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/499597d7f0e943f5775496c9c4250a063ac6eb05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_b95bef07c3da168f3b7c7c1b1f348fdc53d79ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/42d2aa3eb7747b12a96f0fc6b6e5f400303b6c58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_7edadda59467cffc3b6af95c1cd2636ec45114fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/63af9cd9fc87da110ee2c3be6ac2ab5080141b0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_a98cb0abd271c0412145e46d4c926400898b7c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/ec466207cac4be1a9d1ac4a3bf17705fe9f857e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_1cb7b9807da666fab247d1d1c02afa4f46e9fe0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/9ff1ed980f8aaf23b28377a81c2aafc14e2b30a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_138ada8a6f2440a614461fc760d4f22f36d7736d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/8a3f728edde04abf9febffda53ab3eedbe8bbb23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_c37bc3f66afc55ee69d09ab4bbb3a1267479c8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/b706cd922681cf7d408d2513a32dd8e1b6b7e956/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_d661a4a7c652365bdb5adfd356e95eafa30c1b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/be8903817a38e46c7270002d20796223341131f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_c45578b9848f3d87f090ccbfe7d4b89d42cdba98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/b373d58fc885428aee1e64642a79ad5d8f4e358e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_ef36a2e468e021f50717ee7bdd68fbeeb9132212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_d4ed54844a54e672f3ce3766f77cbbb22471e052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_bf71a749ae05de1c12c7f69039963b545a237a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_e88f51866c5065cba0133b2e6c2fdd5a9aa4b285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_224b5785452b99ecac0763955912b8d25c223d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/b5d37d9faa4bacbca1301a6bfdca283c4f886fa6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_d631882e04fed56efac04eea928b959cd516f710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_7647999bb612ad1e7d9707043790549c6971d9e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_5027c376cbe45155e67531bf3abf3edbece902c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/615b0b7b67a1563f7d565ae056e448945b75c7f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_45997365e7d28182637da070a363f3cdb83bfae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_2a1c8329031b8804ff1518cdef0df5206dd04af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_571f75dae919526f9577f40cc244a61c0ef3e052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_3e1f5e65a701f3e1c466f8ab3e4c6108ef588cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/dde2bfd36e0b75e5d0a9acf54c85437321f7293f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_bda13192943f7c249797df3dcc6c1659d2643c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_e20928c2b2455d21b006ca3411da559f74774f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/2ad0b7ac45bf7059b49371a28f0ee956170722ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_a85cdc1d0366d524176a69397f413f2b193ecc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_fcc35ec6adf40ef2b74dbf4bfbe879ef64a7f2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/f2d44df4629a68d85a183f666e78e7c57086a807/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_61b7ed01bdb3c59dd6746b56d27cb898410f1bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/melih/.android/build-cache/738591aa8f0df6942eb1e7daa2cc28df50aef463/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/pre-dexed/debug/classes_0667a1a532d5ad06f036ea50239f64f827be618a.jar" />
+    </item>
+
+</items>

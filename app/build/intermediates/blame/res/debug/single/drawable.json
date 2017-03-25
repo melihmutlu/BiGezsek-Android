@@ -232,6 +232,10 @@
         "source": "/home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
+        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/color_cursor_white.xml",
+        "source": "/home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/res/drawable/color_cursor_white.xml"
+    },
+    {
         "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
         "source": "/home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/res/drawable/mr_ic_media_route_on_dark.xml"
     },

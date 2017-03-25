@@ -4,6 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
+        multiDexEnabled true
         applicationId "com.hackathon.getir.bigezsek"
         minSdkVersion 15
         targetSdkVersion 25
@@ -29,4 +30,5 @@ dependencies {
     compile 'com.android.support:design:25.3.0'
     testCompile 'junit:junit:4.12'
     compile 'com.google.android.gms:play-services:10.2.1'
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
 }
