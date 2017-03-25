@@ -43,6 +43,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
     private GoogleMap map;
     private FloatingSearchView searchView;
     private Context context;
+    private LatLng loc;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,7 +74,6 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
-
     }
 
     @Override
@@ -83,11 +83,10 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
             if(resultCode == RESULT_OK){
                 String placeID =data.getStringExtra("placeID");
                 String placeName = data.getStringExtra("placeName");
-                String placeLatLng = data.getStringExtra("placeLatLng");
+                LatLng placeLatLng = (LatLng) data.getExtras().get("placeLatLng");
                 Toast.makeText(context, placeID, Toast.LENGTH_SHORT).show();
 
                 searchView.setSearchText(placeName);
-
 
             }
         }
@@ -100,15 +99,16 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
 
         if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED
                 && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
+            // Ask for permission
             ActivityCompat.requestPermissions(this,new String[]{android.Manifest.permission.ACCESS_FINE_LOCATION}, 1);
         }
         map.setMyLocationEnabled(true);
 
+        // Get and display current location
         GoogleMap.OnMyLocationChangeListener locationChangeListener = new GoogleMap.OnMyLocationChangeListener() {
             @Override
             public void onMyLocationChange (Location location) {
-                LatLng loc = new LatLng (location.getLatitude(), location.getLongitude());
+                loc = new LatLng (location.getLatitude(), location.getLongitude());
                 map.animateCamera(CameraUpdateFactory.newLatLngZoom(loc, 16.0f));
             }
         };
