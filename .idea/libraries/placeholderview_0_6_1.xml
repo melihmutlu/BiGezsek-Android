@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="placeholderview-0.6.1">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/4f14813bcad96ad3878fef7cf56ed4825574c4fc/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/4f14813bcad96ad3878fef7cf56ed4825574c4fc/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/deb3d6ff48d1cb42715f3597b651502c26486ae8/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/deb3d6ff48d1cb42715f3597b651502c26486ae8/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

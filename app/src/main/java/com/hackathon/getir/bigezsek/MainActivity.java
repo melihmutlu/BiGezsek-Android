@@ -15,6 +15,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -22,6 +23,7 @@ import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.arlib.floatingsearchview.FloatingSearchView;
 import com.google.android.gms.common.GooglePlayServicesNotAvailableException;
 import com.google.android.gms.common.GooglePlayServicesRepairableException;
 import com.google.android.gms.location.places.ui.PlacePicker;
@@ -38,7 +40,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
 
     private android.widget.Toolbar toolbar;
     private GoogleMap map;
-    private SearchView searchView;
+    private FloatingSearchView searchView;
     private Context context;
 
     @Override
@@ -51,8 +53,22 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         toolbar = (android.widget.Toolbar) findViewById(R.id.toolbar);
         setActionBar(toolbar);
 
-        searchView = (SearchView) findViewById(R.id.search_box);
-        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+        searchView = (FloatingSearchView) findViewById(R.id.floating_search_view);
+        searchView.setOnFocusChangeListener(new FloatingSearchView.OnFocusChangeListener() {
+            @Override
+            public void onFocus() {
+                Intent i = new Intent(context, GooglePlacesActivity.class);
+                startActivityForResult(i,1);
+            }
+
+            @Override
+            public void onFocusCleared() {
+
+            }
+        });
+
+
+       /* searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
             public boolean onQueryTextSubmit(String query) {
                 return false;
@@ -65,7 +81,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
                 return true;
             }
         });
-
+*/
 
         // Get Fragment
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
@@ -83,9 +99,9 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
                 String placeID =data.getStringExtra("placeID");
                 String placeName = data.getStringExtra("placeName");
                 String placeLatLng = data.getStringExtra("placeLatLng");
-                Toast.makeText(this, placeID, Toast.LENGTH_SHORT).show();
+                Toast.makeText(context, placeID, Toast.LENGTH_SHORT).show();
 
-                searchView.setQuery(placeName , false);
+                searchView.setSearchText(placeName);
 
 
             }
@@ -100,7 +116,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED
                 && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
             // TODO: Consider calling
-            return;
+            ActivityCompat.requestPermissions(this,new String[]{android.Manifest.permission.ACCESS_FINE_LOCATION}, 1);
         }
         map.setMyLocationEnabled(true);
 

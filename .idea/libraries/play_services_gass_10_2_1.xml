@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="play-services-gass-10.2.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/615b0b7b67a1563f7d565ae056e448945b75c7f8/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/615b0b7b67a1563f7d565ae056e448945b75c7f8/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/2e627da4db4dfcaaa1554e73e9fe288d8e1a0eb8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2e627da4db4dfcaaa1554e73e9fe288d8e1a0eb8/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

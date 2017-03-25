@@ -1,478 +1,485 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/melih/.android/build-cache/42d2aa3eb7747b12a96f0fc6b6e5f400303b6c58/output/AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:20:5-66
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\Melih\.android\build-cache\9ce4b25f32304e21cf4e18064fa0be75f4acbc60\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\Melih\.android\build-cache\713a62e0427867ac6355834d9c838135061719ad\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\Melih\.android\build-cache\7e0b5d1849157335c7563313ae9d524b82ce2d3a\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\ca9a0125ba91df323fbb7e7a8acc2374be78e542\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\46f480c7da7f737325314d87f0e6425df52d3a7f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:9:5-37:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/melih/.android/build-cache/eda538de4389a1323c2b0b1c8dd3c3cb0f856f72/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:26:5-20
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/melih/.android/build-cache/d80204f4322bf14c6f0de7b70c66989969b662f6/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] /home/melih/.android/build-cache/6b04e8dbc6da3b0f7dce280f06c109c445929c51/output/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services:10.2.1] /home/melih/.android/build-cache/b7971150ceddc2ede30ca4793f950f4769887c26/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/melih/.android/build-cache/d66082ecf6ffb7a0117f260d1b8676a7f5ccbbc4/output/AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] /home/melih/.android/build-cache/2ad0b7ac45bf7059b49371a28f0ee956170722ad/output/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/melih/.android/build-cache/63af9cd9fc87da110ee2c3be6ac2ab5080141b0f/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-config:10.2.1] /home/melih/.android/build-cache/f575f02dfd33d805b5f03671e3766018b39b6364/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/melih/.android/build-cache/6b1689d832dc158f1ef31e7a8369c0266bdbb732/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/melih/.android/build-cache/42d2aa3eb7747b12a96f0fc6b6e5f400303b6c58/output/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/melih/.android/build-cache/b4f6fc535d69b5ecd7d1675d82587b8a5dd2a249/output/AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/melih/.android/build-cache/be8903817a38e46c7270002d20796223341131f1/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/melih/.android/build-cache/b706cd922681cf7d408d2513a32dd8e1b6b7e956/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/melih/.android/build-cache/f2d44df4629a68d85a183f666e78e7c57086a807/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/melih/.android/build-cache/615b0b7b67a1563f7d565ae056e448945b75c7f8/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/melih/.android/build-cache/cd200fd5e0106c41efc7b91bf792a3ea010c3481/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/melih/.android/build-cache/871a55d2631a3899bd982594c96beb4b0f278347/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/melih/.android/build-cache/12a7ac2557b7ca5608bc6475a5a500ad67187faa/output/AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/melih/.android/build-cache/b5d37d9faa4bacbca1301a6bfdca283c4f886fa6/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/melih/.android/build-cache/fede846dd30453ff8b5d8aac6ef98afdea942312/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/melih/.android/build-cache/90a8d14b9f012fca14085e3528a90ab7cb1f929f/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/melih/.android/build-cache/b373d58fc885428aee1e64642a79ad5d8f4e358e/output/AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/melih/.android/build-cache/7cf81c243bcde058b4a670f3282ddb9de0803ce5/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/melih/.android/build-cache/8a3f728edde04abf9febffda53ab3eedbe8bbb23/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/melih/.android/build-cache/dde2bfd36e0b75e5d0a9acf54c85437321f7293f/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/melih/.android/build-cache/7ce567c83c7223450aff1ec9fa8c1d32a3973ca5/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/melih/.android/build-cache/a5e9023ef44002f71c055f04ffc446a36f26abc2/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/melih/.android/build-cache/7a4250013f3407a4b1b641f38b926dcebf97a8af/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.0] /home/melih/.android/build-cache/15cd1c6d39fc42900b94696d6c5bd1f2da5d9cfa/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.0] /home/melih/.android/build-cache/9ff1ed980f8aaf23b28377a81c2aafc14e2b30a4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] /home/melih/.android/build-cache/3a17c1e11689b20292eeb9e86090ad604a00c17f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/melih/.android/build-cache/62203b20c4ab68236f55a39aa2e8da2dadd138ae/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/melih/.android/build-cache/499597d7f0e943f5775496c9c4250a063ac6eb05/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/melih/.android/build-cache/2929c3e6f280419b4a22e1ce20cd2e0c56c6b322/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.0] /home/melih/.android/build-cache/bf720dde4ffb5426b6fcde5c13c9d265aa4eb6dc/output/AndroidManifest.xml:29:5-20
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melih\.android\build-cache\11a9e024d5a2e2c85e159d3ae5726c0486b960eb\output\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Melih\.android\build-cache\2a5d240d6e39ab2d5e7e3f673ea4820f0dfdd67f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Melih\.android\build-cache\4493848e2d018142589240400775ff47f337448c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\Melih\.android\build-cache\d4189a47d9b97ed724f92c1d29fbc1888ab27f0d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\Melih\.android\build-cache\896c1d69af87ce9e2db47cb8965d1e41aa7042bb\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Melih\.android\build-cache\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Melih\.android\build-cache\5f27734e2fba0ad32fd8305bc1fc17c7de76cd7b\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\Melih\.android\build-cache\7e60dab46f3832843f8766ca1914564fb8390b7d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\Melih\.android\build-cache\5b7eaa84716043b17fd244ac728a9fd7e0c6d926\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\Melih\.android\build-cache\8927e9133c244e5a98680e91a6116fd1b3865b5d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\Melih\.android\build-cache\9ce4b25f32304e21cf4e18064fa0be75f4acbc60\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\Melih\.android\build-cache\b595cacf556c317b6bf5dd1a532979b39802775c\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\Melih\.android\build-cache\bb8a28565f914c238a8f3ea25143951f9442187b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\Melih\.android\build-cache\84111f76854f7e5372cb407a3339cac26d8e6d0a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\Melih\.android\build-cache\830bdaa1e30548d1236e5769799a7310dbb00f16\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\Melih\.android\build-cache\2e627da4db4dfcaaa1554e73e9fe288d8e1a0eb8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\Melih\.android\build-cache\713a62e0427867ac6355834d9c838135061719ad\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\Melih\.android\build-cache\92f541c15d5a1bed83d5b0c66b659ef811f02603\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\Melih\.android\build-cache\7e0b5d1849157335c7563313ae9d524b82ce2d3a\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\Melih\.android\build-cache\896145893f20f7aa79292de0a70e9a2eb280448c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\Melih\.android\build-cache\a9cfcec1124dd12b57788efa2466bd05dc910749\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\Melih\.android\build-cache\623cf51e2ba5bb49c287318385a1a438a4292ec2\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\Melih\.android\build-cache\a2b113d4e66859938a61b7d48c07b95c0358dba5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\Melih\.android\build-cache\34ed7449854a7ada83ffd022d210d038fbbe7105\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\Melih\.android\build-cache\46f51c764fa8035e6a83b533e35c26035ef6b95b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\ca9a0125ba91df323fbb7e7a8acc2374be78e542\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Melih\.android\build-cache\5926811a6c937b5ca42022e4ee9ada17eea7900a\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\Melih\.android\build-cache\10f364e480584af2768c3a2b92fcdd295c4067b5\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\46f480c7da7f737325314d87f0e6425df52d3a7f\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\Melih\.android\build-cache\45e8365dc29f8022694f9d33c4387c2832cc0305\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\Melih\.android\build-cache\b27e58e281952ad8b152e14bca153f0b9c283c2b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\Melih\.android\build-cache\82248bcbab862e4576148cf1785aa06b79301b26\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.android\build-cache\d6c5427af481935462f89d7362d9da42e9d80486\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Melih\.android\build-cache\efd3281b1fea8038d979668f8768f6a0b56703ff\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Melih\.android\build-cache\df8672c87e4cecaef60820f6df569348f2df58e0\output\AndroidManifest.xml:11:5-20
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\Melih\.android\build-cache\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Melih\.android\build-cache\806884419c51f6cbeeb03abfd13f23827db7dc16\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Melih\.android\build-cache\48ef34c7f12e627d5e027af00d4d655871feeec3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Melih\.android\build-cache\1894c986e5bc6ca70bbd771c36cddc408f351ea9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Melih\.android\build-cache\ee7f79aaedec19399dadca321c5402a8cb5d6b66\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Melih\.android\build-cache\41b4b3223d8547972e84cf774d0524333f04eaa2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Melih\.android\build-cache\5d5ca767610c1ddcc2d8a31fd5fe176d864ca5ed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\build-cache\ff31982be62b6cb326e2656c3e13ee070bb49a36\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:13:9-41
 	android:supportsRtl
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:15:9-35
 	android:roundIcon
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:13:9-54
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:14:9-54
 	android:allowBackup
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:12:9-43
 	android:theme
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:16:9-40
 activity#com.hackathon.getir.bigezsek.MainActivity
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:16:9-25:20
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:17:9-26:20
 	android:label
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:18:13-45
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:19:13-45
 	android:theme
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:19:13-56
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:20:13-56
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:17:13-41
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:18:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:24:27-74
 activity#com.hackathon.getir.bigezsek.GooglePlacesActivity
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:26:9-28:77
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:27:9-29:77
 	android:label
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:28:13-65
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:29:13-65
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:27:13-49
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:28:13-49
 activity#com.hackathon.getir.bigezsek.NearbyMapActivity
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:30:9-64
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:31:9-64
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:30:19-52
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:31:19-52
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:32:9-34:71
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:33:9-35:71
 	android:value
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:34:13-68
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:35:13-68
 	android:name
-		ADDED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml:33:13-58
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:34:13-58
 uses-sdk
-INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/melih/.android/build-cache/eda538de4389a1323c2b0b1c8dd3c3cb0f856f72/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mindorks:placeholderview:0.6.1] /home/melih/.android/build-cache/4f14813bcad96ad3878fef7cf56ed4825574c4fc/output/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:20:5-43
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/melih/.android/build-cache/d80204f4322bf14c6f0de7b70c66989969b662f6/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.volley:volley:1.0.0] /home/melih/.android/build-cache/6b04e8dbc6da3b0f7dce280f06c109c445929c51/output/AndroidManifest.xml:7:5-43
-MERGED from [com.google.android.gms:play-services:10.2.1] /home/melih/.android/build-cache/b7971150ceddc2ede30ca4793f950f4769887c26/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-ads:10.2.1] /home/melih/.android/build-cache/ec466207cac4be1a9d1ac4a3bf17705fe9f857e9/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/melih/.android/build-cache/7f7300bb12b345dd503694aa60e69aecce0e381a/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-cast:10.2.1] /home/melih/.android/build-cache/d66082ecf6ffb7a0117f260d1b8676a7f5ccbbc4/output/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/melih/.android/build-cache/5aa81f969af986ccaa91c6e79830200c8ec25e50/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] /home/melih/.android/build-cache/2ad0b7ac45bf7059b49371a28f0ee956170722ad/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/melih/.android/build-cache/63af9cd9fc87da110ee2c3be6ac2ab5080141b0f/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-config:10.2.1] /home/melih/.android/build-cache/f575f02dfd33d805b5f03671e3766018b39b6364/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /home/melih/.android/build-cache/6b1689d832dc158f1ef31e7a8369c0266bdbb732/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/melih/.android/build-cache/42d2aa3eb7747b12a96f0fc6b6e5f400303b6c58/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/melih/.android/build-cache/b4f6fc535d69b5ecd7d1675d82587b8a5dd2a249/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.1] /home/melih/.android/build-cache/738591aa8f0df6942eb1e7daa2cc28df50aef463/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/melih/.android/build-cache/ac00feb08c879f027ac55a5952c4eaceb479cb6b/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-storage:10.2.1] /home/melih/.android/build-cache/f32be970c6b161a1db3eea947537adbec5227440/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /home/melih/.android/build-cache/5ee1cb0882d34968079daf6208b8ec466db93259/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /home/melih/.android/build-cache/be8903817a38e46c7270002d20796223341131f1/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-games:10.2.1] /home/melih/.android/build-cache/b706cd922681cf7d408d2513a32dd8e1b6b7e956/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-drive:10.2.1] /home/melih/.android/build-cache/f2d44df4629a68d85a183f666e78e7c57086a807/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/melih/.android/build-cache/615b0b7b67a1563f7d565ae056e448945b75c7f8/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/melih/.android/build-cache/cd200fd5e0106c41efc7b91bf792a3ea010c3481/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /home/melih/.android/build-cache/0dfa5f7f1d85d0cb5a31f3ebac563faea301b88c/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/melih/.android/build-cache/871a55d2631a3899bd982594c96beb4b0f278347/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/melih/.android/build-cache/12a7ac2557b7ca5608bc6475a5a500ad67187faa/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /home/melih/.android/build-cache/b5d37d9faa4bacbca1301a6bfdca283c4f886fa6/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.1] /home/melih/.android/build-cache/ea13f14029867e12f11e489ed9b1948c3f62f81e/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-plus:10.2.1] /home/melih/.android/build-cache/fede846dd30453ff8b5d8aac6ef98afdea942312/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /home/melih/.android/build-cache/90a8d14b9f012fca14085e3528a90ab7cb1f929f/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /home/melih/.android/build-cache/ffd53cbe351fd0d84860d77862e7bbc471e067db/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /home/melih/.android/build-cache/b373d58fc885428aee1e64642a79ad5d8f4e358e/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-vision:10.2.1] /home/melih/.android/build-cache/7cf81c243bcde058b4a670f3282ddb9de0803ce5/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /home/melih/.android/build-cache/0ac54bf0078e3f3cce58c4102f308284dadc41d5/output/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-identity:10.2.1] /home/melih/.android/build-cache/8a3f728edde04abf9febffda53ab3eedbe8bbb23/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/melih/.android/build-cache/dde2bfd36e0b75e5d0a9acf54c85437321f7293f/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/melih/.android/build-cache/7ce567c83c7223450aff1ec9fa8c1d32a3973ca5/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:17:5-43
-MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/melih/.android/build-cache/068f74c9e30873fd74af0c81e112306fd7de0119/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/melih/.android/build-cache/a5e9023ef44002f71c055f04ffc446a36f26abc2/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/melih/.android/build-cache/7a4250013f3407a4b1b641f38b926dcebf97a8af/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/melih/.android/build-cache/8f558fae578658babfe275828c5a66d503e32459/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.0] /home/melih/.android/build-cache/15cd1c6d39fc42900b94696d6c5bd1f2da5d9cfa/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.0] /home/melih/.android/build-cache/9ff1ed980f8aaf23b28377a81c2aafc14e2b30a4/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.0] /home/melih/.android/build-cache/3a17c1e11689b20292eeb9e86090ad604a00c17f/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/melih/.android/build-cache/62203b20c4ab68236f55a39aa2e8da2dadd138ae/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/melih/.android/build-cache/499597d7f0e943f5775496c9c4250a063ac6eb05/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/melih/.android/build-cache/2929c3e6f280419b4a22e1ce20cd2e0c56c6b322/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.0] /home/melih/.android/build-cache/bf720dde4ffb5426b6fcde5c13c9d265aa4eb6dc/output/AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melih\.android\build-cache\11a9e024d5a2e2c85e159d3ae5726c0486b960eb\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mindorks:placeholderview:0.6.1] C:\Users\Melih\.android\build-cache\deb3d6ff48d1cb42715f3597b651502c26486ae8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Melih\.android\build-cache\2a5d240d6e39ab2d5e7e3f673ea4820f0dfdd67f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Melih\.android\build-cache\4493848e2d018142589240400775ff47f337448c\output\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\Melih\.android\build-cache\d4189a47d9b97ed724f92c1d29fbc1888ab27f0d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\Melih\.android\build-cache\875653dac6a747786a534f69f2b3a43ecb902d33\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\Melih\.android\build-cache\0832978ba41d3576922fcb30968f18c5b62a5407\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\Melih\.android\build-cache\896c1d69af87ce9e2db47cb8965d1e41aa7042bb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Melih\.android\build-cache\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Melih\.android\build-cache\5f27734e2fba0ad32fd8305bc1fc17c7de76cd7b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\Melih\.android\build-cache\7e60dab46f3832843f8766ca1914564fb8390b7d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\Melih\.android\build-cache\5b7eaa84716043b17fd244ac728a9fd7e0c6d926\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\Melih\.android\build-cache\8927e9133c244e5a98680e91a6116fd1b3865b5d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\Melih\.android\build-cache\9ce4b25f32304e21cf4e18064fa0be75f4acbc60\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\Melih\.android\build-cache\b595cacf556c317b6bf5dd1a532979b39802775c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\Melih\.android\build-cache\3878eaa1e42f31559799281194c39e58a407b481\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\Melih\.android\build-cache\e1c0a58a8adbaef817c8a952801aaae0a0830e4a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\Melih\.android\build-cache\968ffdd3a6f670029d1c92ed98802c6a0e1da97a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\Melih\.android\build-cache\c73abca91a88cb16d43e6f3b72a1ac4a2a4d4462\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\Melih\.android\build-cache\bb8a28565f914c238a8f3ea25143951f9442187b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\Melih\.android\build-cache\84111f76854f7e5372cb407a3339cac26d8e6d0a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\Melih\.android\build-cache\830bdaa1e30548d1236e5769799a7310dbb00f16\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\Melih\.android\build-cache\2e627da4db4dfcaaa1554e73e9fe288d8e1a0eb8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\Melih\.android\build-cache\713a62e0427867ac6355834d9c838135061719ad\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\Melih\.android\build-cache\92f541c15d5a1bed83d5b0c66b659ef811f02603\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\Melih\.android\build-cache\7e0b5d1849157335c7563313ae9d524b82ce2d3a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\Melih\.android\build-cache\76d0dbea57ff2caa70e397aef956cdaf2a0d23eb\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\Melih\.android\build-cache\896145893f20f7aa79292de0a70e9a2eb280448c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\Melih\.android\build-cache\a9cfcec1124dd12b57788efa2466bd05dc910749\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\Melih\.android\build-cache\623cf51e2ba5bb49c287318385a1a438a4292ec2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\Melih\.android\build-cache\a2b113d4e66859938a61b7d48c07b95c0358dba5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\Melih\.android\build-cache\34ed7449854a7ada83ffd022d210d038fbbe7105\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\Melih\.android\build-cache\46f51c764fa8035e6a83b533e35c26035ef6b95b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\Melih\.android\build-cache\5aed12254b212aeeac30ae743a2551d4dfc6a4f5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\ca9a0125ba91df323fbb7e7a8acc2374be78e542\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Melih\.android\build-cache\5926811a6c937b5ca42022e4ee9ada17eea7900a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\Melih\.android\build-cache\10f364e480584af2768c3a2b92fcdd295c4067b5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\46f480c7da7f737325314d87f0e6425df52d3a7f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\Melih\.android\build-cache\45e8365dc29f8022694f9d33c4387c2832cc0305\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\Melih\.android\build-cache\06b83fe2a11eefb5eaec565df3b996ec1fb37705\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\Melih\.android\build-cache\b27e58e281952ad8b152e14bca153f0b9c283c2b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\Melih\.android\build-cache\82248bcbab862e4576148cf1785aa06b79301b26\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.android\build-cache\d6c5427af481935462f89d7362d9da42e9d80486\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Melih\.android\build-cache\efd3281b1fea8038d979668f8768f6a0b56703ff\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:17:5-43
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Melih\.android\build-cache\df8672c87e4cecaef60820f6df569348f2df58e0\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\Melih\.android\build-cache\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bartoszlipinski:viewpropertyobjectanimator:1.2.0] C:\Users\Melih\.android\build-cache\7911bda74957ed768a2f48284e5a83c7e6a1d64c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Melih\.android\build-cache\d138e51fb2489899e8fc4de144f0932e7bb068ce\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Melih\.android\build-cache\806884419c51f6cbeeb03abfd13f23827db7dc16\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Melih\.android\build-cache\48ef34c7f12e627d5e027af00d4d655871feeec3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Melih\.android\build-cache\1894c986e5bc6ca70bbd771c36cddc408f351ea9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Melih\.android\build-cache\ee7f79aaedec19399dadca321c5402a8cb5d6b66\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Melih\.android\build-cache\41b4b3223d8547972e84cf774d0524333f04eaa2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Melih\.android\build-cache\5d5ca767610c1ddcc2d8a31fd5fe176d864ca5ed\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\build-cache\ff31982be62b6cb326e2656c3e13ee070bb49a36\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/melih/Workspace/BiGezsek-Android/app/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.0] /home/melih/.android/build-cache/b078ecefa7325c7a3c09253771a28707d7d628f4/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.0] /home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/melih/.android/build-cache/a5e9023ef44002f71c055f04ffc446a36f26abc2/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/melih/.android/build-cache/7a4250013f3407a4b1b641f38b926dcebf97a8af/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/melih/.android/build-cache/8f558fae578658babfe275828c5a66d503e32459/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.0] /home/melih/.android/build-cache/15cd1c6d39fc42900b94696d6c5bd1f2da5d9cfa/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.0] /home/melih/.android/build-cache/9ff1ed980f8aaf23b28377a81c2aafc14e2b30a4/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] /home/melih/.android/build-cache/3a17c1e11689b20292eeb9e86090ad604a00c17f/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] /home/melih/.android/build-cache/62203b20c4ab68236f55a39aa2e8da2dadd138ae/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] /home/melih/.android/build-cache/499597d7f0e943f5775496c9c4250a063ac6eb05/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] /home/melih/.android/build-cache/2929c3e6f280419b4a22e1ce20cd2e0c56c6b322/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.0] /home/melih/.android/build-cache/bf720dde4ffb5426b6fcde5c13c9d265aa4eb6dc/output/AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:24:9-31
-	android:name
-		ADDED from [com.android.support:cardview-v7:25.3.0] /home/melih/.android/build-cache/91132059b7743ddef75bc195e5b1458eb20b2161/output/AndroidManifest.xml:23:9-47
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /home/melih/.android/build-cache/12a7ac2557b7ca5608bc6475a5a500ad67187faa/output/AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\Melih\.android\build-cache\a9cfcec1124dd12b57788efa2466bd05dc910749\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\ca9a0125ba91df323fbb7e7a8acc2374be78e542\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\46f480c7da7f737325314d87f0e6425df52d3a7f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:20:22-76
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/melih/.android/build-cache/01b7293a2d8145f443cb1e02361c99572916eb90/output/AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:26:19-91
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /home/melih/.android/build-cache/037d2f8068c8a582f776e86262ccf5738f63b1c7/output/AndroidManifest.xml:24:5-67
+ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\ca9a0125ba91df323fbb7e7a8acc2374be78e542\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\46f480c7da7f737325314d87f0e6425df52d3a7f\output\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /home/melih/.android/build-cache/1ad02ff6dbf6f775cc4752e86b2cae3beed92603/output/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:24:22-65
 activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:9-25:20
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:20:9-25:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:51-74
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:20:51-74
 	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:75-121
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:20:75-121
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:20:19-50
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:20:19-50
 intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:21:13-24:29
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:21:13-24:29
 action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:22:17-89
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:22:17-89
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:22:25-87
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:22:25-87
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:23:17-75
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/melih/.android/build-cache/424003bd53dfbd6ba0a581db14f6387dc88b7d37/output/AndroidManifest.xml:23:27-73
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:23:27-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:9-189
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:129-162
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:20:129-162
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:20:163-187
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:20:69-128
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:20:19-68
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:20:19-68
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:9-184
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:24:9-184
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:64-87
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:24:64-87
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:24:88-182
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/melih/.android/build-cache/216acd686af2c2186f297ee1fb075f6a10dbb276/output/AndroidManifest.xml:24:18-63
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Melih\.android\build-cache\8f7d3dc52ebdd5d21f130f976da094cb2e3f8981\output\AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /home/melih/.android/build-cache/8d618bb9cc3ad040196efa4f8e3a4033c2d5bd31/output/AndroidManifest.xml:7:18-90
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Melih\.android\build-cache\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\output\AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:23:18-87
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:24:13-26:29
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:24:13-26:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:24:28-51
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:24:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:25:17-77
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/melih/.android/build-cache/ec2410c7094c3cd6f04f8baea2baa9a192c58fa4/output/AndroidManifest.xml:25:25-75
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\Melih\.android\build-cache\bdd26827270383bd57b547ab13b89e467b9f4ed2\output\AndroidManifest.xml:25:25-75
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.2.1] /home/melih/.android/build-cache/d0b444fc94f73c5d29bc24ccc849dc2cac3c054b/output/AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:22:5-81
+ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\Melih\.android\build-cache\713a62e0427867ac6355834d9c838135061719ad\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\Melih\.android\build-cache\7e0b5d1849157335c7563313ae9d524b82ce2d3a\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /home/melih/.android/build-cache/e30ecec9f709e54be4cabcfa4a40b4011b023183/output/AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\Melih\.android\build-cache\713a62e0427867ac6355834d9c838135061719ad\output\AndroidManifest.xml:20:22-79
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:28:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /home/melih/.android/build-cache/5a094c97a2d8506bf5fafcc8604a7f474bacf377/output/AndroidManifest.xml:30:27-75
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Melih\.android\build-cache\64127165fe0f37b91b163e8b017da29e8828fa74\output\AndroidManifest.xml:30:27-75
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\ca9a0125ba91df323fbb7e7a8acc2374be78e542\output\AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/melih/.android/build-cache/b876f8448dd6ad525fb5b71772c8131432964351/output/AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Melih\.android\build-cache\ca9a0125ba91df323fbb7e7a8acc2374be78e542\output\AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/melih/.android/build-cache/5b50ccf3e28ab7140396c96c7f805c8d59086ebd/output/AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Melih\.android\build-cache\0b5d6bfd5fa3badd48753df746ec85c2b980f179\output\AndroidManifest.xml:32:16-87
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:9-35:20
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:30:9-35:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:31:13-34:29
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:31:13-34:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:32:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:33:17-60
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:33:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:33:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:33:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:39:9-119
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:39:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:39:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:39:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:39:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:39:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:43:9-47:19
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:43:9-47:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:43:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:43:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:43:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:43:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:44:13-46:29
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:44:13-46:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:44:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:44:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:45:17-79
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:45:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/melih/.android/build-cache/1364c885cb9d377ab1f6e87fdd1c228356b8e20a/output/AndroidManifest.xml:45:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Melih\.android\build-cache\2b8b87b7d09737d1ed99f5f07b99644a5dadc3a5\output\AndroidManifest.xml:45:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Melih\.android\build-cache\5926811a6c937b5ca42022e4ee9ada17eea7900a\output\AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Melih\.android\build-cache\5926811a6c937b5ca42022e4ee9ada17eea7900a\output\AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Melih\.android\build-cache\5926811a6c937b5ca42022e4ee9ada17eea7900a\output\AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Melih\.android\build-cache\5926811a6c937b5ca42022e4ee9ada17eea7900a\output\AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/melih/.android/build-cache/56e5ba388976262282a848f1c670638cd5518f80/output/AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Melih\.android\build-cache\5926811a6c937b5ca42022e4ee9ada17eea7900a\output\AndroidManifest.xml:6:79-143
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/melih/.android/build-cache/86d33a6119d04868de40b6cd929d56c218b0875a/output/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.android\build-cache\d6c5427af481935462f89d7362d9da42e9d80486\output\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.android\build-cache\d6c5427af481935462f89d7362d9da42e9d80486\output\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.android\build-cache\d6c5427af481935462f89d7362d9da42e9d80486\output\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/melih/.android/build-cache/a666547736f588dce4a135058d1bdd819eada806/output/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.android\build-cache\d6c5427af481935462f89d7362d9da42e9d80486\output\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/melih/.android/build-cache/d9ef750aa8f67ef32fb08dc6af2a778045df86e1/output/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Melih\.android\build-cache\d138e51fb2489899e8fc4de144f0932e7bb068ce\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Melih\.android\build-cache\806884419c51f6cbeeb03abfd13f23827db7dc16\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Melih\.android\build-cache\48ef34c7f12e627d5e027af00d4d655871feeec3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Melih\.android\build-cache\1894c986e5bc6ca70bbd771c36cddc408f351ea9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Melih\.android\build-cache\ee7f79aaedec19399dadca321c5402a8cb5d6b66\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Melih\.android\build-cache\41b4b3223d8547972e84cf774d0524333f04eaa2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Melih\.android\build-cache\5d5ca767610c1ddcc2d8a31fd5fe176d864ca5ed\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\build-cache\ff31982be62b6cb326e2656c3e13ee070bb49a36\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:23:9-47
