@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="floatingsearchview-2.0.3">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/7aeb473d39f2da4ed6960c77a6b3ea70b8c65488/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/7aeb473d39f2da4ed6960c77a6b3ea70b8c65488/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/46605dab1347ba66a2d57188dc6308766e6636a5/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/46605dab1347ba66a2d57188dc6308766e6636a5/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "D:\\Workspace\\BiGezsek-Android\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/D:\\Workspace\\BiGezsek-Android\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]

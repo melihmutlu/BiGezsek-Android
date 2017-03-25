@@ -1,22 +1,42 @@
 [
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\a2b113d4e66859938a61b7d48c07b95c0358dba5\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/taha/.android/build-cache/8f87d7cc925bd95a3683f080f512643b8dae1ca0/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "/Users/taha/StudioProjects/BiGezsek-Android/C:\\Users\\Melih\\.android\\build-cache\\a2b113d4e66859938a61b7d48c07b95c0358dba5\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     }
 ]

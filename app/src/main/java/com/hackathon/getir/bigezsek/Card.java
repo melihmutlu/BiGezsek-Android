@@ -62,6 +62,14 @@ public class Card {
 
     @SwipeOut
     private void onSwipedOut(){
-        mSwipeView.addView(this);
+
+    }
+
+    @SwipeIn
+    private void onSwipedIn(){
+        Intent messageactivity = new Intent(mContext,MessageActivity.class);
+        messageactivity.putExtra("otherId",mProfile.getId());
+        messageactivity.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        mContext.startActivity(messageactivity);
     }
 }
