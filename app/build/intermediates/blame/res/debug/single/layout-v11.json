@@ -1,50 +1,74 @@
 [
     {
-        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "D:\\Users\\taha\\StudioProjects\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Users\\taha\\.android\\build-cache\\dd035b2d0882b3d644dfc258422d73345112499b\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "D:\\Users\\taha\\StudioProjects\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\Users\\taha\\.android\\build-cache\\dd035b2d0882b3d644dfc258422d73345112499b\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v11/notification_media_action.xml"
+        "merged": "D:\\home\\melih\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "D:\\home\\melih\\.android\\build-cache\\d03ec0a431b547be012eeb59ce3fb395747d93ca\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "D:\\Users\\taha\\StudioProjects\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "D:\\Users\\taha\\.android\\build-cache\\dd035b2d0882b3d644dfc258422d73345112499b\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "D:\\Users\\taha\\StudioProjects\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "D:\\Users\\taha\\.android\\build-cache\\dd035b2d0882b3d644dfc258422d73345112499b\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "D:\\home\\melih\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "D:\\home\\melih\\.android\\build-cache\\d03ec0a431b547be012eeb59ce3fb395747d93ca\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/taha/StudioProjects/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/taha/.android/build-cache/dd035b2d0882b3d644dfc258422d73345112499b/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "D:\\home\\melih\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "D:\\home\\melih\\.android\\build-cache\\d03ec0a431b547be012eeb59ce3fb395747d93ca\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/melih/Workspace/BiGezsek-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/melih/.android/build-cache/d03ec0a431b547be012eeb59ce3fb395747d93ca/output/res/layout-v11/notification_media_action.xml"
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\home\\melih\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "D:\\home\\melih\\.android\\build-cache\\d03ec0a431b547be012eeb59ce3fb395747d93ca\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Users\\taha\\StudioProjects\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "D:\\Users\\taha\\.android\\build-cache\\dd035b2d0882b3d644dfc258422d73345112499b\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Users\\taha\\StudioProjects\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "D:\\Users\\taha\\.android\\build-cache\\dd035b2d0882b3d644dfc258422d73345112499b\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\home\\melih\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "D:\\home\\melih\\.android\\build-cache\\d03ec0a431b547be012eeb59ce3fb395747d93ca\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\home\\melih\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\home\\melih\\.android\\build-cache\\d03ec0a431b547be012eeb59ce3fb395747d93ca\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     }
 ]
