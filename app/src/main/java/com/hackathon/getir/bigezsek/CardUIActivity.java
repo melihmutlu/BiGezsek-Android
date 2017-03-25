@@ -7,6 +7,7 @@ package com.hackathon.getir.bigezsek;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 import com.mindorks.placeholderview.SwipeDecor;
@@ -24,6 +25,7 @@ public class CardUIActivity extends Activity {
 
         String location = getIntent().getExtras().getString("location");
         String date = getIntent().getExtras().getString("date");
+        Log.d("asd",date);
 
         mSwipeView = (SwipePlaceHolderView)findViewById(R.id.swipeView);
         mContext = getApplicationContext();
@@ -42,7 +44,7 @@ public class CardUIActivity extends Activity {
         findViewById(R.id.rejectBtn).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mSwipeView.doSwipe(false);
+                mSwipeView.doSwipe(true);
             }
         });
 

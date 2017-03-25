@@ -53,6 +53,10 @@
             android:name="com.hackathon.getir.bigezsek.CardUIActivity"
             android:label="CardUIActivity" >
         </activity>
+        <activity
+            android:name="com.hackathon.getir.bigezsek.MessageActivity"
+            android:label="MessageActivity" >
+        </activity>
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"

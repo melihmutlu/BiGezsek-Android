@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:3:1-39
 		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
@@ -30,7 +30,7 @@ MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.a
 	android:name
 		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:8:5-35:15
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:8:5-39:15
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melih\.android\build-cache\11a9e024d5a2e2c85e159d3ae5726c0486b960eb\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:26:5-20
 MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Melih\.android\build-cache\2a5d240d6e39ab2d5e7e3f673ea4820f0dfdd67f\output\AndroidManifest.xml:9:5-20
@@ -131,12 +131,18 @@ ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:27:5-2
 		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:28:9-39
 	android:name
 		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:27:15-45
-meta-data#com.google.android.geo.API_KEY
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:31:5-33:66
-	android:value
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:33:9-64
+activity#com.hackathon.getir.bigezsek.MessageActivity
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:31:5-33:16
+	android:label
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:32:9-40
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:32:9-54
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:31:15-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:35:5-37:66
+	android:value
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:37:9-64
+	android:name
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:36:9-54
 uses-sdk
 INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\Melih\.android\build-cache\f7bd19022b0b5e6da8ab32f79b5edb08934e185d\output\AndroidManifest.xml:18:5-42

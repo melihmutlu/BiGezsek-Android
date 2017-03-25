@@ -28,6 +28,10 @@ package="com.hackathon.getir.bigezsek">
         android:label="CardUIActivity">
     </activity>
 
+    <activity android:name=".MessageActivity"
+        android:label="MessageActivity">
+    </activity>
+
     <meta-data
         android:name="com.google.android.geo.API_KEY"
         android:value="AIzaSyAZEViKGUsEJ-2byueG2TktfWPFoXPoayg"/>

@@ -91,9 +91,8 @@ public class MainActivity extends AppCompatActivity {
         public void onDateSet(DatePicker view, int year, int month, int day){
             Intent getCards = new Intent(getActivity(),CardUIActivity.class);
             getCards.putExtra("location",placeID);
-            getCards.putExtra("date",""+day+"."+month+"."+year);
+            getCards.putExtra("date",""+day+"."+(month+1)+"."+year);
             startActivity(getCards);
-
         }
     }
 
