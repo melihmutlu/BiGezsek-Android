@@ -1,7 +1,6 @@
 package com.hackathon.getir.bigezsek;
 
 import android.content.Context;
-import android.content.res.AssetManager;
 import android.util.Log;
 import android.widget.Toast;
 
@@ -18,11 +17,6 @@ import com.mindorks.placeholderview.SwipePlaceHolderView;
 import org.json.JSONArray;
 import org.json.JSONException;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by taha on 25/03/17.
  */
@@ -31,11 +25,11 @@ public class Utils {
 
     private static final String TAG = "Utils";
 
-    public static void loadProfiles(final Context context,final SwipePlaceHolderView mSwipeView,final String location){
+    public static void loadProfiles(final Context context,final SwipePlaceHolderView mSwipeView,final String location,final String date){
         try{
 
             RequestQueue queue = Volley.newRequestQueue(context);
-            String url ="http://bigezsek-backend.herokuapp.com/getUsers?place="+location+"&date=26.3.2017&hour=aksam&id=2";
+            String url ="http://bigezsek-backend.herokuapp.com/getUsers?place="+location+"&date="+date+"&hour=aksam&id=2";
             Log.d("asd",location);
             StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
                     new Response.Listener<String>() {

@@ -2,23 +2,20 @@ package com.hackathon.getir.bigezsek;
 
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.Color;
 import android.os.Build;
-import android.os.Bundle;
 import android.support.annotation.RequiresApi;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
-import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.AdapterView;
-import android.widget.Button;
-import android.widget.Toast;
 
-import com.miguelcatalan.materialsearchview.MaterialSearchView;
+import android.app.DatePickerDialog;
+import android.app.Dialog;
+import android.os.Bundle;
+import android.widget.DatePicker;
+import android.app.DialogFragment;
+
+import java.util.Calendar;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -43,9 +40,12 @@ public class MainActivity extends AppCompatActivity {
         if (requestCode == 1) {
             if(resultCode == RESULT_OK){
                 String placeID =data.getStringExtra("placeID");
-                Intent getCards = new Intent(this,CardUIActivity.class);
-                getCards.putExtra("location",placeID);
-                startActivity(getCards);
+
+                Bundle bundle = new Bundle();
+                bundle.putString("placeID", placeID);
+                DialogFragment dFragment = new DatePickerFragment();
+                dFragment.setArguments(bundle);
+                dFragment.show(getFragmentManager(), "Date Picker");
             }
         }
     }
@@ -73,5 +73,35 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    public static class DatePickerFragment extends DialogFragment implements DatePickerDialog.OnDateSetListener{
+        static String placeID;
+        @Override
+        public Dialog onCreateDialog(Bundle savedInstanceState){
+            placeID = getArguments().getString("placeID");
+            final Calendar calendar = Calendar.getInstance();
+            int year = calendar.get(Calendar.YEAR);
+            int month = calendar.get(Calendar.MONTH);
+            int day = calendar.get(Calendar.DAY_OF_MONTH);
+
+            /*
+                Initialize a new DatePickerDialog
+
+                DatePickerDialog(Context context, DatePickerDialog.OnDateSetListener callBack,
+                    int year, int monthOfYear, int dayOfMonth)
+             */
+            DatePickerDialog dpd = new DatePickerDialog(getActivity(),this,year,month,day);
+            return  dpd;
+        }
+
+        public void onDateSet(DatePicker view, int year, int month, int day){
+            Intent getCards = new Intent(getActivity(),CardUIActivity.class);
+            getCards.putExtra("location",placeID);
+            getCards.putExtra("date",""+day+"."+month+"."+year);
+            startActivity(getCards);
+
+        }
+    }
+
 
 }
