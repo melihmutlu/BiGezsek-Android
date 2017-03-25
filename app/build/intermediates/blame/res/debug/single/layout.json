@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\29fac7e3a168de08a7028d2d0004651846198b9b\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_layout.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\layout\\action_item_layout.xml"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\abc_search_view.xml"
     },
@@ -22,10 +26,6 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\a2b113d4e66859938a61b7d48c07b95c0358dba5\\output\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
@@ -48,10 +48,6 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\notification_action.xml"
-    },
-    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\29fac7e3a168de08a7028d2d0004651846198b9b\\output\\res\\layout\\design_navigation_item_header.xml"
     },
@@ -64,16 +60,16 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\29fac7e3a168de08a7028d2d0004651846198b9b\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_activity.xml",
         "source": "D:\\Workspace\\BiGezsek-Android\\app\\src\\main\\res\\layout\\message_activity.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\29fac7e3a168de08a7028d2d0004651846198b9b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overflow_action_item_layout.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\layout\\overflow_action_item_layout.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -86,6 +82,14 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearby_map.xml",
+        "source": "D:\\Workspace\\BiGezsek-Android\\app\\src\\main\\res\\layout\\activity_nearby_map.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\floating_search_layout.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\layout\\floating_search_layout.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
@@ -132,16 +136,16 @@
         "source": "D:\\Workspace\\BiGezsek-Android\\app\\src\\main\\res\\layout\\card_view.xml"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_query_section.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\layout\\search_query_section.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
@@ -158,6 +162,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\29fac7e3a168de08a7028d2d0004651846198b9b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_suggestions_section.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\layout\\search_suggestions_section.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cardui.xml",
@@ -182,6 +190,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_suggestion_item.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\layout\\search_suggestion_item.xml"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",

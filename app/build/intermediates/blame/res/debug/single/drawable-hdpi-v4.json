@@ -40,6 +40,10 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-hdpi-v4\\ic_close_dark.png"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_invert_colors_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-hdpi-v4\\ic_invert_colors_black_24dp.png"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\\output\\res\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png"
     },
@@ -98,6 +102,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\d6c5427af481935462f89d7362d9da42e9d80486\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-hdpi-v4\\ic_search_black_24dp.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
@@ -184,16 +192,20 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more_vert_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-hdpi-v4\\ic_more_vert_black_24dp.png"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\d6c5427af481935462f89d7362d9da42e9d80486\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_dark.png",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-hdpi-v4\\ic_speaker_dark.png"
-    },
-    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_grey.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-hdpi-v4\\ic_cast_grey.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_dark.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-hdpi-v4\\ic_speaker_dark.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png",
@@ -396,6 +408,14 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_back_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-hdpi-v4\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-hdpi-v4\\ic_clear_black_24dp.png"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -430,6 +450,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\d6c5427af481935462f89d7362d9da42e9d80486\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mic_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-hdpi-v4\\ic_mic_black_24dp.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
@@ -526,6 +550,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_history_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-hdpi-v4\\ic_history_black_24dp.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png",

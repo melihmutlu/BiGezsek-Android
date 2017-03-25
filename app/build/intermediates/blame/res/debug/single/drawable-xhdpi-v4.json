@@ -264,6 +264,10 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_04_dark.png"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mic_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-xhdpi-v4\\ic_mic_black_24dp.png"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_04_light.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_04_light.png"
     },
@@ -340,12 +344,12 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_play_dark.png"
     },
     {
-        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_22_dark.png",
-        "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_22_dark.png"
-    },
-    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_off_light.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_22_dark.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_22_dark.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
@@ -374,6 +378,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b19edf89002a0a0a2cdc4aacc4b8fe291f4b5eeb\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_invert_colors_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-xhdpi-v4\\ic_invert_colors_black_24dp.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_13_light.png",
@@ -454,6 +462,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tv_light.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_tv_light.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_clear_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-xhdpi-v4\\ic_clear_black_24dp.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_01_dark.png",
@@ -700,6 +712,10 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_05_dark.png"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_more_vert_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-xhdpi-v4\\ic_more_vert_black_24dp.png"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_20_dark.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_20_dark.png"
     },
@@ -714,6 +730,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_arrow_back_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-xhdpi-v4\\ic_arrow_back_black_24dp.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_08_light.png",
@@ -900,6 +920,10 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_21_dark.png"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_history_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-xhdpi-v4\\ic_history_black_24dp.png"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_01_light.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\04d6a3abd5297b49668f62f444fc9ef6e71ac5ee\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_01_light.png"
     },
@@ -938,6 +962,10 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_search_black_24dp.png",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-xhdpi-v4\\ic_search_black_24dp.png"
     },
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_21_light.png",

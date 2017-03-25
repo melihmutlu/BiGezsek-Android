@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Melih\\.android\\build-cache\\29fac7e3a168de08a7028d2d0004651846198b9b\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\oval_btn_selector.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-v21\\oval_btn_selector.xml"
+    },
+    {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
@@ -30,5 +34,13 @@
     {
         "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\Melih\\.android\\build-cache\\b679ff7c2dd27949a98906491b9cfdc01588a628\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_btn_selector.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-v21\\rect_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\BiGezsek-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\suggestion_item_background.xml",
+        "source": "C:\\Users\\Melih\\.android\\build-cache\\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\\output\\res\\drawable-v21\\suggestion_item_background.xml"
     }
 ]

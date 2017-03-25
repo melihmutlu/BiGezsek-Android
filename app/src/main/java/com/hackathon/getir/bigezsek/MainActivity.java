@@ -1,36 +1,62 @@
 package com.hackathon.getir.bigezsek;
 
-import android.content.Context;
-import android.content.Intent;
-import android.os.Build;
-import android.support.annotation.RequiresApi;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.view.Menu;
-import android.view.MenuItem;
-
 import android.app.DatePickerDialog;
 import android.app.Dialog;
-import android.os.Bundle;
-import android.widget.DatePicker;
 import android.app.DialogFragment;
+import android.content.Context;
+import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.location.Location;
+import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.FragmentActivity;
+import android.widget.DatePicker;
+
+import com.arlib.floatingsearchview.FloatingSearchView;
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.LatLng;
 
 import java.util.Calendar;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends FragmentActivity implements OnMapReadyCallback {
 
-    Toolbar toolbar;
-    Context context;
+    private android.widget.Toolbar toolbar;
+    private GoogleMap map;
+    private FloatingSearchView searchView;
+    private Context context;
+    private LatLng loc;
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        context = this;
 
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        // Set toolbar
+        toolbar = (android.widget.Toolbar) findViewById(R.id.toolbar);
+        setActionBar(toolbar);
 
+        searchView = (FloatingSearchView) findViewById(R.id.floating_search_view);
+        searchView.setOnFocusChangeListener(new FloatingSearchView.OnFocusChangeListener() {
+            @Override
+            public void onFocus() {
+                Intent i = new Intent(context, GooglePlacesActivity.class);
+                startActivityForResult(i,1);
+            }
+
+            @Override
+            public void onFocusCleared() {
+
+            }
+        });
+
+        // Get Fragment
+        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.map);
+        mapFragment.getMapAsync(this);
 
     }
 
@@ -39,39 +65,47 @@ public class MainActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == 1) {
             if(resultCode == RESULT_OK){
+                // Get results
                 String placeID =data.getStringExtra("placeID");
+                String placeName = data.getStringExtra("placeName");
+                LatLng placeLatLng = (LatLng) data.getExtras().get("placeLatLng");
 
                 Bundle bundle = new Bundle();
                 bundle.putString("placeID", placeID);
                 DialogFragment dFragment = new DatePickerFragment();
                 dFragment.setArguments(bundle);
                 dFragment.show(getFragmentManager(), "Date Picker");
+
+                searchView.setSearchText(placeName);
+
             }
         }
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        super.onCreateOptionsMenu(menu);
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
 
     @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
+    public void onMapReady(GoogleMap googleMap) {
+        map = googleMap;
 
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_search) {
-            Intent i = new Intent(this, GooglePlacesActivity.class);
-            startActivityForResult(i, 1);
-            return true;
+        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED
+                && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            // Ask for permission
+            ActivityCompat.requestPermissions(this,new String[]{android.Manifest.permission.ACCESS_FINE_LOCATION}, 1);
         }
+        map.setMyLocationEnabled(true);
 
-        return super.onOptionsItemSelected(item);
+        // Get and display current location
+        GoogleMap.OnMyLocationChangeListener locationChangeListener = new GoogleMap.OnMyLocationChangeListener() {
+            @Override
+            public void onMyLocationChange (Location location) {
+                loc = new LatLng (location.getLatitude(), location.getLongitude());
+                map.animateCamera(CameraUpdateFactory.newLatLngZoom(loc, 16.0f));
+            }
+        };
+
+        map.setOnMyLocationChangeListener(locationChangeListener);
+
+
     }
 
     public static class DatePickerFragment extends DialogFragment implements DatePickerDialog.OnDateSetListener{

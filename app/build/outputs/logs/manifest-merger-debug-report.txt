@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:3:1-39
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -14,7 +14,7 @@ ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:2:1-40
 		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:19:5-66
 MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Melih\.android\build-cache\8afd61e71eb6a2d00e711b46bcb12f900b88b3e3\output\AndroidManifest.xml:18:5-66
@@ -29,10 +29,17 @@ MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\User
 MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Melih\.android\build-cache\55b7401d7cde6f3b49270170ee6898e6a984ce78\output\AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:8:5-39:15
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:10:5-37:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melih\.android\build-cache\11a9e024d5a2e2c85e159d3ae5726c0486b960eb\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:26:5-20
 MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Melih\.android\build-cache\2a5d240d6e39ab2d5e7e3f673ea4820f0dfdd67f\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\Melih\.android\build-cache\4493848e2d018142589240400775ff47f337448c\output\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\Melih\.android\build-cache\d4189a47d9b97ed724f92c1d29fbc1888ab27f0d\output\AndroidManifest.xml:5:5-20
@@ -78,77 +85,67 @@ MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.a
 MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Melih\.android\build-cache\efd3281b1fea8038d979668f8768f6a0b56703ff\output\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:19:5-21:19
 MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Melih\.android\build-cache\df8672c87e4cecaef60820f6df569348f2df58e0\output\AndroidManifest.xml:11:5-20
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\Melih\.android\build-cache\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:25.3.0] C:\Users\Melih\.android\build-cache\806884419c51f6cbeeb03abfd13f23827db7dc16\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Melih\.android\build-cache\48ef34c7f12e627d5e027af00d4d655871feeec3\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Melih\.android\build-cache\1894c986e5bc6ca70bbd771c36cddc408f351ea9\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Melih\.android\build-cache\ee7f79aaedec19399dadca321c5402a8cb5d6b66\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Melih\.android\build-cache\41b4b3223d8547972e84cf774d0524333f04eaa2\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Melih\.android\build-cache\5d5ca767610c1ddcc2d8a31fd5fe176d864ca5ed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\build-cache\ff31982be62b6cb326e2656c3e13ee070bb49a36\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:10:5-37
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:13:9-41
 	android:supportsRtl
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:12:5-31
-	android:roundIcon
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:11:5-50
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:8:18-44
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:9:5-39
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:12:9-43
 	android:theme
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:13:5-36
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:15:9-52
 activity#com.hackathon.getir.bigezsek.MainActivity
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:14:5-21:16
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:16:9-25:20
 	android:label
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:18:13-45
 	android:theme
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:16:9-52
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:14:15-43
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:17:9-20:25
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:18:13-65
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:18:21-62
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:19:13-73
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:19:23-70
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:23:27-74
 activity#com.hackathon.getir.bigezsek.GooglePlacesActivity
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:23:5-25:16
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:26:9-28:77
 	android:label
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:24:9-61
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:28:13-65
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:23:15-51
-activity#com.hackathon.getir.bigezsek.CardUIActivity
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:27:5-29:16
-	android:label
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:28:9-39
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:27:13-49
+activity#com.hackathon.getir.bigezsek.NearbyMapActivity
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:30:9-64
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:27:15-45
-activity#com.hackathon.getir.bigezsek.MessageActivity
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:31:5-33:16
-	android:label
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:32:9-40
-	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:31:15-46
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:30:19-52
 meta-data#com.google.android.geo.API_KEY
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:35:5-37:66
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:32:9-34:71
 	android:value
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:37:9-64
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:34:13-68
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:36:9-54
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:33:13-58
 uses-sdk
 INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Melih\.android\build-cache\f7bd19022b0b5e6da8ab32f79b5edb08934e185d\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melih\.android\build-cache\11a9e024d5a2e2c85e159d3ae5726c0486b960eb\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.mindorks:placeholderview:0.6.1] C:\Users\Melih\.android\build-cache\deb3d6ff48d1cb42715f3597b651502c26486ae8\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:20:5-43
 MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Melih\.android\build-cache\2a5d240d6e39ab2d5e7e3f673ea4820f0dfdd67f\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\Melih\.android\build-cache\4493848e2d018142589240400775ff47f337448c\output\AndroidManifest.xml:7:5-43
 MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\Melih\.android\build-cache\d4189a47d9b97ed724f92c1d29fbc1888ab27f0d\output\AndroidManifest.xml:4:5-43
@@ -203,17 +200,20 @@ MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Melih\.a
 MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Melih\.android\build-cache\efd3281b1fea8038d979668f8768f6a0b56703ff\output\AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:17:5-43
 MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Melih\.android\build-cache\df8672c87e4cecaef60820f6df569348f2df58e0\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\Melih\.android\build-cache\7aeb473d39f2da4ed6960c77a6b3ea70b8c65488\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bartoszlipinski:viewpropertyobjectanimator:1.2.0] C:\Users\Melih\.android\build-cache\7911bda74957ed768a2f48284e5a83c7e6a1d64c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Melih\.android\build-cache\d138e51fb2489899e8fc4de144f0932e7bb068ce\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.3.0] C:\Users\Melih\.android\build-cache\806884419c51f6cbeeb03abfd13f23827db7dc16\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Melih\.android\build-cache\48ef34c7f12e627d5e027af00d4d655871feeec3\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Melih\.android\build-cache\1894c986e5bc6ca70bbd771c36cddc408f351ea9\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Melih\.android\build-cache\ee7f79aaedec19399dadca321c5402a8cb5d6b66\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Melih\.android\build-cache\41b4b3223d8547972e84cf774d0524333f04eaa2\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Melih\.android\build-cache\5d5ca767610c1ddcc2d8a31fd5fe176d864ca5ed\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\build-cache\ff31982be62b6cb326e2656c3e13ee070bb49a36\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:23:9-59
@@ -223,24 +223,6 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\
 	android:minSdkVersion
 		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Melih\.android\build-cache\d138e51fb2489899e8fc4de144f0932e7bb068ce\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.0] C:\Users\Melih\.android\build-cache\806884419c51f6cbeeb03abfd13f23827db7dc16\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Melih\.android\build-cache\48ef34c7f12e627d5e027af00d4d655871feeec3\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Melih\.android\build-cache\1894c986e5bc6ca70bbd771c36cddc408f351ea9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Melih\.android\build-cache\ee7f79aaedec19399dadca321c5402a8cb5d6b66\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Melih\.android\build-cache\41b4b3223d8547972e84cf774d0524333f04eaa2\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Melih\.android\build-cache\5d5ca767610c1ddcc2d8a31fd5fe176d864ca5ed\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\build-cache\ff31982be62b6cb326e2656c3e13ee070bb49a36\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:24:9-31
-	android:name
-		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:23:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Melih\.android\build-cache\3afd989364c4c812cc9fccc209a9410f6478bfc0\output\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Melih\.android\build-cache\e608f37f09d758724f82699615a1387d72a28980\output\AndroidManifest.xml:21:5-78
@@ -481,3 +463,21 @@ ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih
 		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:20:66-119
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Melih\.android\build-cache\23e032bbc5e2d68f3cde71668c271c7b975c07fa\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.0] C:\Users\Melih\.android\build-cache\29fac7e3a168de08a7028d2d0004651846198b9b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\Melih\.android\build-cache\d138e51fb2489899e8fc4de144f0932e7bb068ce\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\Melih\.android\build-cache\806884419c51f6cbeeb03abfd13f23827db7dc16\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Melih\.android\build-cache\b679ff7c2dd27949a98906491b9cfdc01588a628\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Melih\.android\build-cache\48ef34c7f12e627d5e027af00d4d655871feeec3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Melih\.android\build-cache\1894c986e5bc6ca70bbd771c36cddc408f351ea9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Melih\.android\build-cache\ee7f79aaedec19399dadca321c5402a8cb5d6b66\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Melih\.android\build-cache\41b4b3223d8547972e84cf774d0524333f04eaa2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Melih\.android\build-cache\5d5ca767610c1ddcc2d8a31fd5fe176d864ca5ed\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\e331c9b051ea2edf214f0b630c58a581a7a0cc9b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Melih\.android\build-cache\bc2517aa93a927cc051bb51d65ad3afa7e3babe1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Melih\.android\build-cache\ff31982be62b6cb326e2656c3e13ee070bb49a36\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\Melih\.android\build-cache\a34975c976766d66ebe0985aa00e9bc2ccf8654b\output\AndroidManifest.xml:23:9-47
