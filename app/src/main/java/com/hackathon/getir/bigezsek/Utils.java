@@ -17,6 +17,8 @@ import com.mindorks.placeholderview.SwipePlaceHolderView;
 import org.json.JSONArray;
 import org.json.JSONException;
 
+import java.util.ArrayList;
+
 /**
  * Created by taha on 25/03/17.
  */
@@ -62,4 +64,48 @@ public class Utils {
         }catch (Exception e){
         }
     }
+
+
+    public static ArrayList<Place> loadPlaces(final Context context, final String lat ,final String lng, final String radius ){
+
+        final ArrayList<Place> places = new ArrayList<>();
+
+        try{
+            RequestQueue queue = Volley.newRequestQueue(context);
+            String url = "http://bigezsek-backend.herokuapp.com/getNearbyPlaces?location=" + lat + "," + lng + "&radius=" + radius;
+            StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
+                    new Response.Listener<String>() {
+                        @Override
+                        public void onResponse(String response) {
+                            GsonBuilder builder = new GsonBuilder();
+                            Gson gson = builder.create();
+                            JSONArray array = null;
+                            try {
+                                array = new JSONArray(response);
+                                for(int i=0;i<array.length();i++){
+                                    Place place = gson.fromJson(array.getString(i), Place.class);
+                                    places.add(place);
+                                }
+                                if(array.length()==0){
+                                    Toast.makeText(context,"There is nobody wanna go here!",Toast.LENGTH_LONG).show();
+                                }
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+                        }
+                    }, new Response.ErrorListener() {
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                }
+            });
+
+            queue.add(stringRequest);
+
+        }catch (Exception e){
+        }
+        return places;
+    }
+
+
+
 }

@@ -29,6 +29,10 @@ public class Profile {
     @Expose
     private String location;
 
+    @SerializedName("hangout_time")
+    @Expose
+    private String time;
+
     public String getId() {
         return id;
     }
@@ -55,6 +59,10 @@ public class Profile {
 
     public Integer getAge() {
         return age;
+    }
+
+    public String getTime() {
+        return time;
     }
 
     public void setAge(Integer age) {
