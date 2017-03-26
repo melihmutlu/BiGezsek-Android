@@ -10,6 +10,9 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.mindorks.placeholderview.SwipePlaceHolderView;
@@ -26,8 +29,9 @@ import java.util.ArrayList;
 public class Utils {
 
     private static final String TAG = "Utils";
+    public static  final ArrayList<Place> places = new ArrayList<>();
 
-    public static void loadProfiles(final Context context,final SwipePlaceHolderView mSwipeView,final String location,final String date){
+    public static void loadProfiles(final Context context, final SwipePlaceHolderView mSwipeView, final String location, final String date){
         try{
 
             RequestQueue queue = Volley.newRequestQueue(context);
@@ -66,9 +70,7 @@ public class Utils {
     }
 
 
-    public static ArrayList<Place> loadPlaces(final Context context, final String lat ,final String lng, final String radius ){
-
-        final ArrayList<Place> places = new ArrayList<>();
+    public static void loadPlaces(final Context context, final GoogleMap map, final double lat , final double lng, final double radius ){
 
         try{
             RequestQueue queue = Volley.newRequestQueue(context);
@@ -83,8 +85,11 @@ public class Utils {
                             try {
                                 array = new JSONArray(response);
                                 for(int i=0;i<array.length();i++){
-                                    Place place = gson.fromJson(array.getString(i), Place.class);
-                                    places.add(place);
+                                    Place p = gson.fromJson(array.getString(i), Place.class);
+                                    map.addMarker(new MarkerOptions()
+                                            .position(new LatLng(p.getLat(), p.getLng()))
+                                            .title(p.getName()));
+
                                 }
                                 if(array.length()==0){
                                     Toast.makeText(context,"There is nobody wanna go here!",Toast.LENGTH_LONG).show();
@@ -103,7 +108,6 @@ public class Utils {
 
         }catch (Exception e){
         }
-        return places;
     }
 
 

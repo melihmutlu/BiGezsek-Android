@@ -9,16 +9,33 @@ import com.google.gson.annotations.SerializedName;
 
 public class Place{
 
-    @SerializedName("geometry")
+    @SerializedName("geometry.lat")
     @Expose
-    private String geometry;
+    private double lat;
+
+    @SerializedName("geometry.lng")
+    @Expose
+    private double lng;
 
     @SerializedName("id")
     @Expose
     private String id;
 
-    public String getGeometry() {
-        return geometry;
+    @SerializedName("name")
+    @Expose
+    private String name;
+
+
+    public double getLat() {
+        return lat;
+    }
+
+    public double getLng() {
+        return lng;
+    }
+
+    public String getName() {
+        return name;
     }
 
     public String getId() {

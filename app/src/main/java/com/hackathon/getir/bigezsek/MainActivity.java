@@ -28,6 +28,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
     private FloatingSearchView searchView;
     private Context context;
     private LatLng loc;
+    private String placeName, placeID;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,9 +67,9 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         if (requestCode == 1) {
             if(resultCode == RESULT_OK){
                 // Get results
-                String placeID =data.getStringExtra("placeID");
-                String placeName = data.getStringExtra("placeName");
-                LatLng placeLatLng = (LatLng) data.getExtras().get("placeLatLng");
+                placeID =data.getStringExtra("placeID");
+                placeName = data.getStringExtra("placeName");
+                loc = (LatLng) data.getExtras().get("placeLatLng");
 
                 Bundle bundle = new Bundle();
                 bundle.putString("placeID", placeID);
@@ -94,17 +95,24 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         }
         map.setMyLocationEnabled(true);
 
+        // TODO
+        // Fix this part
         // Get and display current location
         GoogleMap.OnMyLocationChangeListener locationChangeListener = new GoogleMap.OnMyLocationChangeListener() {
             @Override
             public void onMyLocationChange (Location location) {
-                loc = new LatLng (location.getLatitude(), location.getLongitude());
-                map.animateCamera(CameraUpdateFactory.newLatLngZoom(loc, 16.0f));
+                LatLng _loc = new LatLng (location.getLatitude(), location.getLongitude());
+                map.animateCamera(CameraUpdateFactory.newLatLngZoom(_loc, 16.0f));
             }
         };
 
         map.setOnMyLocationChangeListener(locationChangeListener);
+        // Adding nearby places to Map doesnt working
+        //  showNearbyPlaces();
+    }
 
+    private void showNearbyPlaces(){
+         Utils.loadPlaces(this, map, loc.latitude, loc.longitude, 250.0);
 
     }
 
@@ -129,6 +137,5 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
             startActivity(getCards);
         }
     }
-
 
 }
