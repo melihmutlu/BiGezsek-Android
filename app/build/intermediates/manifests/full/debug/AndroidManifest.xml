@@ -48,7 +48,8 @@
         <activity
             android:name="com.hackathon.getir.bigezsek.GooglePlacesActivity"
             android:label="@string/title_activity_google_places" />
-        <activity android:name="com.hackathon.getir.bigezsek.NearbyMapActivity" />
+        <activity android:name="com.hackathon.getir.bigezsek.CardUIActivity" />
+        <activity android:name="com.hackathon.getir.bigezsek.MessageActivity" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"

@@ -118,7 +118,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
             int month = calendar.get(Calendar.MONTH);
             int day = calendar.get(Calendar.DAY_OF_MONTH);
 
-            DatePickerDialog dpd = new DatePickerDialog(getActivity(),this,year,month,day);
+            DatePickerDialog dpd = new DatePickerDialog(getActivity() , this,year,month,day);
             return  dpd;
         }
 

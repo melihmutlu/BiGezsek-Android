@@ -132,10 +132,14 @@ ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:26:9-2
 		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:28:13-65
 	android:name
 		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:27:13-49
-activity#com.hackathon.getir.bigezsek.NearbyMapActivity
-ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:30:9-64
+activity#com.hackathon.getir.bigezsek.CardUIActivity
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:29:9-52
 	android:name
-		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:30:19-52
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:29:19-49
+activity#com.hackathon.getir.bigezsek.MessageActivity
+ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:30:9-53
+	android:name
+		ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:30:19-50
 meta-data#com.google.android.geo.API_KEY
 ADDED from D:\Workspace\BiGezsek-Android\app\src\main\AndroidManifest.xml:32:9-34:71
 	android:value
